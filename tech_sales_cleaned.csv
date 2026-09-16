@@ -1,0 +1,651 @@
+Order ID,Order Date,Ship Date,Customer Segment,Country,Category,Product,Quantity,Unit Price ($),Discount,Revenue ($),Cost ($),Profit ($),Profit Margin %,Shipping Days,Month Name
+ORD-2023-1001,2023-02-10,2023-02-12,Consumer,Uae,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.05,209.0,95,114.0,54.54545454545454,2,Feb
+ORD-2023-1002,2023-02-10,2023-02-12,Corporate,Saudi Arabia,Computing,Laptop Pro 15,5,1200,0.0,6000.0,3900,2100.0,35.0,2,Feb
+ORD-2023-1003,2023-09-07,2023-09-10,Consumer,United States,Displays,"4K UHD Monitor 27""",1,380,0.05,361.0,260,101.0,27.977839335180054,3,Sep
+ORD-2023-1004,2023-08-28,2023-08-29,Corporate,Germany,Displays,"4K UHD Monitor 27""",1,380,0.0,380.0,260,120.0,31.57894736842105,1,Aug
+ORD-2023-1005,2023-04-14,2023-04-18,Corporate,Uae,Mobile Devices,Smartwatch Series 5,3,280,0.05,798.0,450,348.0,43.609022556390975,4,Apr
+ORD-2023-1006,2023-04-27,2023-05-01,Consumer,Saudi Arabia,Mobile Devices,Smartphone Ultra,8,950,0.0,7600.0,4800,2800.0,36.84210526315789,4,Apr
+ORD-2023-1007,2023-07-11,2023-07-16,Small Business,Uae,Mobile Devices,Smartphone Ultra,1,950,0.0,950.0,600,350.0,36.84210526315789,5,Jul
+ORD-2023-1008,2023-12-09,2023-12-12,Small Business,Egypt,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.0,220.0,95,125.0,56.81818181818182,3,Dec
+ORD-2023-1009,2023-06-23,2023-06-24,Consumer,Uae,Audio & Accessories,Noise-Cancelling Headphones,3,220,0.0,660.0,285,375.0,56.81818181818182,1,Jun
+ORD-2023-1010,2023-01-29,2023-02-03,Corporate,Egypt,Displays,"4K UHD Monitor 27""",3,380,0.05,1083.0,780,303.0,27.977839335180054,5,Jan
+ORD-2023-1011,2023-09-20,2023-09-23,Consumer,Germany,Mobile Devices,Smartwatch Series 5,2,280,0.1,504.0,300,204.0,40.476190476190474,3,Sep
+ORD-2023-1012,2023-07-27,2023-08-03,Corporate,Germany,Audio & Accessories,Noise-Cancelling Headphones,3,220,0.05,627.0,285,342.0,54.54545454545454,7,Jul
+ORD-2023-1013,2023-10-13,2023-10-15,Corporate,Egypt,Displays,"4K UHD Monitor 27""",2,380,0.1,684.0,520,164.0,23.976608187134502,2,Oct
+ORD-2023-1014,2023-07-19,2023-07-23,Corporate,Germany,Displays,"4K UHD Monitor 27""",2,380,0.2,608.0,520,88.0,14.473684210526317,4,Jul
+ORD-2023-1015,2023-05-12,2023-05-15,Consumer,Egypt,Audio & Accessories,Noise-Cancelling Headphones,5,220,0.0,1100.0,475,625.0,56.81818181818182,3,May
+ORD-2023-1016,2023-10-08,2023-10-10,Consumer,Saudi Arabia,Computing,"Tablet Air 10""",4,520,0.0,2080.0,1360,720.0,34.61538461538461,2,Oct
+ORD-2023-1017,2023-08-08,2023-08-11,Corporate,Germany,Mobile Devices,Smartwatch Series 5,1,280,0.0,280.0,150,130.0,46.42857142857143,3,Aug
+ORD-2023-1018,2023-05-10,2023-05-13,Consumer,Saudi Arabia,Computing,Laptop Pro 15,1,1200,0.2,960.0,780,180.0,18.75,3,May
+ORD-2023-1019,2023-02-16,2023-02-18,Corporate,United States,Mobile Devices,Smartwatch Series 5,2,280,0.2,448.0,300,148.0,33.035714285714285,2,Feb
+ORD-2023-1020,2023-08-24,2023-08-27,Corporate,United Kingdom,Computing,"Tablet Air 10""",2,520,0.0,1040.0,680,360.0,34.61538461538461,3,Aug
+ORD-2023-1021,2023-02-24,2023-02-27,Consumer,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.0,220.0,90,130.0,59.09090909090909,3,Feb
+ORD-2023-1022,2023-12-16,2023-12-18,Consumer,Germany,Mobile Devices,Smartphone Ultra,2,950,0.0,1900.0,1200,700.0,36.84210526315789,2,Dec
+ORD-2023-1023,2023-04-21,2023-04-26,Corporate,Uae,Displays,"4K UHD Monitor 27""",1,380,0.15,323.0,260,63.0,19.5046439628483,5,Apr
+ORD-2023-1024,2023-07-28,2023-08-02,Corporate,Egypt,Audio & Accessories,Noise-Cancelling Headphones,5,220,0.05,1045.0,475,570.0,54.54545454545454,5,Jul
+ORD-2023-1025,2023-11-03,2023-11-06,Small Business,Saudi Arabia,Mobile Devices,Smartwatch Series 5,1,280,0.1,252.0,150,102.0,40.476190476190474,3,Nov
+ORD-2023-1026,2023-02-05,2023-02-08,Small Business,Uae,Audio & Accessories,Mechanical Gaming Keyboard,15,110,0.0,1650.0,675,975.0,59.09090909090909,3,Feb
+ORD-2023-1027,2023-11-08,2023-11-11,Corporate,Germany,Audio & Accessories,Mechanical Gaming Keyboard,4,110,0.15,374.0,180,194.0,51.87165775401069,3,Nov
+ORD-2023-1028,2023-05-26,2023-05-28,Consumer,Uae,Computing,"Tablet Air 10""",1,520,0.1,468.0,340,128.0,27.350427350427353,2,May
+ORD-2023-1029,2023-09-09,2023-09-15,Consumer,Uae,Mobile Devices,Smartwatch Series 5,3,280,0.0,840.0,450,390.0,46.42857142857143,6,Sep
+ORD-2023-1030,2023-05-04,2023-05-07,Consumer,United States,Computing,"Tablet Air 10""",1,520,0.0,520.0,340,180.0,34.61538461538461,3,May
+ORD-2023-1031,2023-07-30,2023-08-01,Corporate,United States,Mobile Devices,Smartphone Ultra,5,950,0.05,4512.5,3000,1512.5,33.51800554016621,2,Jul
+ORD-2023-1032,2023-08-27,2023-08-30,Corporate,Saudi Arabia,Computing,"Tablet Air 10""",4,520,0.0,2080.0,1360,720.0,34.61538461538461,3,Aug
+ORD-2023-1033,2023-04-08,2023-04-12,Consumer,Germany,Mobile Devices,Smartphone Ultra,1,950,0.05,902.5,600,302.5,33.51800554016621,4,Apr
+ORD-2023-1034,2023-04-01,2023-04-08,Consumer,United States,Displays,"4K UHD Monitor 27""",1,380,0.05,361.0,260,101.0,27.977839335180054,7,Apr
+ORD-2023-1035,2023-06-19,2023-06-23,Consumer,Germany,Mobile Devices,Smartwatch Series 5,2,280,0.0,560.0,300,260.0,46.42857142857143,4,Jun
+ORD-2023-1036,2023-06-09,2023-06-11,Corporate,Germany,Computing,"Tablet Air 10""",1,520,0.05,494.0,340,154.0,31.17408906882591,2,Jun
+ORD-2023-1037,2023-08-12,2023-08-15,Consumer,United States,Computing,"Tablet Air 10""",4,520,0.0,2080.0,1360,720.0,34.61538461538461,3,Aug
+ORD-2023-1038,2023-07-16,2023-07-17,Consumer,Saudi Arabia,Computing,Laptop Pro 15,2,1200,0.0,2400.0,1560,840.0,35.0,1,Jul
+ORD-2023-1039,2023-02-19,2023-02-22,Corporate,Egypt,Audio & Accessories,Noise-Cancelling Headphones,5,220,0.05,1045.0,475,570.0,54.54545454545454,3,Feb
+ORD-2023-1040,2023-08-20,2023-08-25,Consumer,Egypt,Mobile Devices,Smartphone Ultra,1,950,0.0,950.0,600,350.0,36.84210526315789,5,Aug
+ORD-2023-1041,2023-07-13,2023-07-19,Consumer,Uae,Audio & Accessories,Noise-Cancelling Headphones,2,220,0.0,440.0,190,250.0,56.81818181818182,6,Jul
+ORD-2023-1042,2023-12-10,2023-12-13,Small Business,Saudi Arabia,Displays,"4K UHD Monitor 27""",2,380,0.05,722.0,520,202.0,27.977839335180054,3,Dec
+ORD-2023-1043,2023-11-02,2023-11-04,Corporate,United Kingdom,Mobile Devices,Smartwatch Series 5,1,280,0.0,280.0,150,130.0,46.42857142857143,2,Nov
+ORD-2023-1044,2023-06-13,2023-06-16,Consumer,Egypt,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.0,110.0,45,65.0,59.09090909090909,3,Jun
+ORD-2023-1045,2023-02-13,2023-02-15,Corporate,Germany,Displays,"4K UHD Monitor 27""",4,380,0.0,1520.0,1040,480.0,31.57894736842105,2,Feb
+ORD-2023-1046,2023-05-15,2023-03-24,Corporate,Egypt,Mobile Devices,Smartphone Ultra,1,950,0.05,902.5,600,302.5,33.51800554016621,-52,May
+ORD-2023-1047,2023-04-02,2023-04-05,Consumer,Egypt,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.0,220.0,90,130.0,59.09090909090909,3,Apr
+ORD-2023-1048,2023-03-30,2023-04-01,Corporate,Germany,Audio & Accessories,Mechanical Gaming Keyboard,15,110,0.1,1485.0,675,810.0,54.54545454545454,2,Mar
+ORD-2023-1049,2023-11-22,2023-11-23,Corporate,United States,Mobile Devices,Smartphone Ultra,2,950,0.05,1805.0,1200,605.0,33.51800554016621,1,Nov
+ORD-2023-1050,2023-01-15,2023-01-18,Consumer,Germany,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.1,198.0,90,108.0,54.54545454545454,3,Jan
+ORD-2023-1051,2023-08-10,2023-08-12,Consumer,Egypt,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.2,88.0,45,43.0,48.86363636363637,2,Aug
+ORD-2023-1052,2023-07-20,2023-07-23,Corporate,Saudi Arabia,Displays,"4K UHD Monitor 27""",5,380,0.3,1330.0,1300,30.0,2.2556390977443606,3,Jul
+ORD-2023-1053,2023-02-19,2023-02-24,Consumer,Uae,Mobile Devices,Smartphone Ultra,3,950,0.1,2565.0,1800,765.0,29.82456140350877,5,Feb
+ORD-2023-1054,2023-07-25,2023-07-27,Corporate,United States,Displays,"4K UHD Monitor 27""",3,380,0.1,1026.0,780,246.0,23.976608187134502,2,Jul
+ORD-2023-1055,2023-08-13,2023-08-16,Corporate,Uae,Mobile Devices,Smartwatch Series 5,3,280,0.05,798.0,450,348.0,43.609022556390975,3,Aug
+ORD-2023-1056,2023-12-11,2023-12-16,Consumer,Egypt,Displays,"4K UHD Monitor 27""",5,380,0.2,1520.0,1300,220.0,14.473684210526317,5,Dec
+ORD-2023-1057,2023-02-05,2023-02-11,Consumer,Egypt,Computing,"Tablet Air 10""",1,520,0.15,442.0,340,102.0,23.076923076923077,6,Feb
+ORD-2023-1058,2023-04-15,2023-04-18,Consumer,United Kingdom,Displays,"4K UHD Monitor 27""",1,380,0.05,361.0,260,101.0,27.977839335180054,3,Apr
+ORD-2023-1059,2023-04-12,2023-04-17,Small Business,Saudi Arabia,Mobile Devices,Smartwatch Series 5,1,280,0.3,196.0,150,46.0,23.46938775510204,5,Apr
+ORD-2023-1060,2023-03-08,2023-03-14,Small Business,Egypt,Mobile Devices,Smartphone Ultra,3,950,0.05,2707.5,1800,907.5,33.51800554016621,6,Mar
+ORD-2023-1061,2023-02-24,2023-02-25,Small Business,Egypt,Displays,"4K UHD Monitor 27""",1,380,0.05,361.0,260,101.0,27.977839335180054,1,Feb
+ORD-2023-1062,2023-05-01,2023-05-06,Small Business,Egypt,Computing,"Tablet Air 10""",1,520,0.15,442.0,340,102.0,23.076923076923077,5,May
+ORD-2023-1063,2023-02-08,2023-02-15,Consumer,Egypt,Mobile Devices,Smartwatch Series 5,3,280,0.0,840.0,450,390.0,46.42857142857143,7,Feb
+ORD-2023-1064,2023-08-01,2023-08-03,Corporate,Germany,Computing,Laptop Pro 15,1,1200,0.05,1140.0,780,360.0,31.57894736842105,2,Aug
+ORD-2023-1065,2023-06-25,2023-06-26,Corporate,Germany,Displays,"4K UHD Monitor 27""",2,380,0.0,760.0,520,240.0,31.57894736842105,1,Jun
+ORD-2023-1066,2023-09-22,2023-09-23,Corporate,Egypt,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.1,198.0,90,108.0,54.54545454545454,1,Sep
+ORD-2023-1067,2023-10-22,2023-10-25,Corporate,United Kingdom,Displays,"4K UHD Monitor 27""",8,380,0.05,2888.0,2080,808.0,27.977839335180054,3,Oct
+ORD-2023-1068,2023-02-07,2023-02-09,Consumer,Egypt,Computing,"Tablet Air 10""",3,520,0.0,1560.0,1020,540.0,34.61538461538461,2,Feb
+ORD-2023-1069,2023-04-13,2023-04-16,Corporate,Uae,Mobile Devices,Smartphone Ultra,1,950,0.0,950.0,600,350.0,36.84210526315789,3,Apr
+ORD-2023-1070,2023-06-09,2023-06-12,Corporate,Saudi Arabia,Mobile Devices,Smartwatch Series 5,4,280,0.0,1120.0,600,520.0,46.42857142857143,3,Jun
+ORD-2023-1071,2023-11-23,2023-11-27,Corporate,Saudi Arabia,Computing,"Tablet Air 10""",3,520,0.1,1404.0,1020,384.0,27.350427350427353,4,Nov
+ORD-2023-1072,2023-10-23,2023-10-28,Small Business,Germany,Displays,"4K UHD Monitor 27""",1,380,0.0,380.0,260,120.0,31.57894736842105,5,Oct
+ORD-2023-1073,2023-11-19,2023-11-21,Small Business,Saudi Arabia,Mobile Devices,Smartphone Ultra,1,950,0.2,760.0,600,160.0,21.052631578947366,2,Nov
+ORD-2023-1074,2023-02-23,2023-02-24,Consumer,United States,Mobile Devices,Smartphone Ultra,1,950,0.0,950.0,600,350.0,36.84210526315789,1,Feb
+ORD-2023-1075,2023-01-15,2023-01-17,Consumer,Germany,Mobile Devices,Smartphone Ultra,2,950,0.05,1805.0,1200,605.0,33.51800554016621,2,Jan
+ORD-2023-1076,2023-09-21,2023-09-23,Small Business,Germany,Mobile Devices,Smartwatch Series 5,1,280,0.05,266.0,150,116.0,43.609022556390975,2,Sep
+ORD-2023-1077,2023-09-01,2023-09-04,Small Business,Uae,Audio & Accessories,Noise-Cancelling Headphones,5,220,0.05,1045.0,475,570.0,54.54545454545454,3,Sep
+ORD-2023-1078,2023-08-22,2023-08-24,Corporate,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.0,220.0,90,130.0,59.09090909090909,2,Aug
+ORD-2023-1079,2023-01-22,2023-01-24,Corporate,Saudi Arabia,Computing,"Tablet Air 10""",5,520,0.15,2210.0,1700,510.0,23.076923076923077,2,Jan
+ORD-2023-1080,2023-09-08,2023-09-11,Corporate,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.0,220.0,90,130.0,59.09090909090909,3,Sep
+ORD-2023-1081,2023-01-12,2023-01-14,Consumer,Germany,Audio & Accessories,Noise-Cancelling Headphones,2,220,0.0,440.0,190,250.0,56.81818181818182,2,Jan
+ORD-2023-1082,2023-08-09,2023-08-11,Corporate,Uae,Audio & Accessories,Noise-Cancelling Headphones,8,220,0.05,1672.0,760,912.0,54.54545454545454,2,Aug
+ORD-2023-1083,2023-06-19,2023-06-26,Corporate,Saudi Arabia,Computing,"Tablet Air 10""",4,520,0.05,1976.0,1360,616.0,31.17408906882591,7,Jun
+ORD-2023-1084,2023-03-23,2023-03-25,Corporate,Saudi Arabia,Computing,"Tablet Air 10""",2,520,0.0,1040.0,680,360.0,34.61538461538461,2,Mar
+ORD-2023-1085,2023-12-11,2023-12-15,Small Business,Germany,Audio & Accessories,Mechanical Gaming Keyboard,4,110,0.0,440.0,180,260.0,59.09090909090909,4,Dec
+ORD-2023-1086,2023-03-12,2023-03-14,Small Business,Germany,Computing,"Tablet Air 10""",2,520,0.15,884.0,680,204.0,23.076923076923077,2,Mar
+ORD-2023-1087,2023-03-21,2023-03-28,Consumer,Germany,Computing,"Tablet Air 10""",3,520,0.1,1404.0,1020,384.0,27.350427350427353,7,Mar
+ORD-2023-1088,2023-07-25,2023-07-31,Consumer,Germany,Computing,Laptop Pro 15,1,1200,0.0,1200.0,780,420.0,35.0,6,Jul
+ORD-2023-1089,2023-10-05,2023-10-08,Consumer,United Kingdom,Mobile Devices,Smartwatch Series 5,3,280,0.05,798.0,450,348.0,43.609022556390975,3,Oct
+ORD-2023-1090,2023-11-12,2023-11-15,Consumer,Saudi Arabia,Mobile Devices,Smartwatch Series 5,1,280,0.2,224.0,150,74.0,33.035714285714285,3,Nov
+ORD-2023-1091,2023-04-21,2023-04-24,Corporate,Egypt,Audio & Accessories,Noise-Cancelling Headphones,5,220,0.15,935.0,475,460.0,49.19786096256685,3,Apr
+ORD-2023-1092,2023-07-11,2023-07-12,Corporate,Uae,Computing,Laptop Pro 15,4,1200,0.0,4800.0,3120,1680.0,35.0,1,Jul
+ORD-2023-1093,2023-08-17,2023-08-19,Corporate,Uae,Computing,Laptop Pro 15,2,1200,0.15,2040.0,1560,480.0,23.52941176470588,2,Aug
+ORD-2023-1094,2023-05-04,2023-05-10,Consumer,United Kingdom,Computing,"Tablet Air 10""",3,520,0.0,1560.0,1020,540.0,34.61538461538461,6,May
+ORD-2023-1095,2023-08-29,2023-08-31,Consumer,Egypt,Computing,Laptop Pro 15,1,1200,0.0,1200.0,780,420.0,35.0,2,Aug
+ORD-2023-1096,2023-07-10,2023-07-12,Small Business,United Kingdom,Computing,"Tablet Air 10""",4,520,0.05,1976.0,1360,616.0,31.17408906882591,2,Jul
+ORD-2023-1097,2023-07-24,2023-07-27,Corporate,Saudi Arabia,Computing,"Tablet Air 10""",2,520,0.05,988.0,680,308.0,31.17408906882591,3,Jul
+ORD-2023-1098,2023-06-30,2023-07-05,Small Business,Egypt,Computing,"Tablet Air 10""",4,520,0.1,1872.0,1360,512.0,27.350427350427353,5,Jun
+ORD-2023-1099,2023-03-06,2023-03-08,Corporate,United Kingdom,Displays,"4K UHD Monitor 27""",2,380,0.0,760.0,520,240.0,31.57894736842105,2,Mar
+ORD-2023-1100,2023-06-16,2023-06-17,Consumer,Egypt,Computing,"Tablet Air 10""",2,520,0.0,1040.0,680,360.0,34.61538461538461,1,Jun
+ORD-2023-1101,2023-08-20,2023-08-22,Consumer,United Kingdom,Computing,"Tablet Air 10""",4,520,0.0,2080.0,1360,720.0,34.61538461538461,2,Aug
+ORD-2023-1102,2023-12-25,2023-12-27,Small Business,Egypt,Computing,"Tablet Air 10""",1,520,0.0,520.0,340,180.0,34.61538461538461,2,Dec
+ORD-2023-1103,2023-11-24,2023-11-27,Consumer,United Kingdom,Computing,"Tablet Air 10""",2,520,0.0,1040.0,680,360.0,34.61538461538461,3,Nov
+ORD-2023-1104,2023-10-24,2023-10-27,Corporate,Germany,Audio & Accessories,Mechanical Gaming Keyboard,3,110,0.0,330.0,135,195.0,59.09090909090909,3,Oct
+ORD-2023-1105,2023-09-08,2023-09-10,Consumer,Egypt,Audio & Accessories,Mechanical Gaming Keyboard,3,110,0.15,280.5,135,145.5,51.87165775401069,2,Sep
+ORD-2023-1106,2023-06-04,2023-06-07,Corporate,Egypt,Displays,"4K UHD Monitor 27""",10,380,0.0,3800.0,2600,1200.0,31.57894736842105,3,Jun
+ORD-2023-1107,2023-07-21,2023-07-23,Corporate,United States,Computing,"Tablet Air 10""",15,520,0.2,6240.0,5100,1140.0,18.269230769230766,2,Jul
+ORD-2023-1108,2023-06-01,2023-06-05,Consumer,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.1,99.0,45,54.0,54.54545454545454,4,Jun
+ORD-2023-1109,2023-06-25,2023-06-27,Corporate,Germany,Mobile Devices,Smartphone Ultra,2,950,0.05,1805.0,1200,605.0,33.51800554016621,2,Jun
+ORD-2023-1110,2023-12-28,2023-12-30,Small Business,United Kingdom,Computing,"Tablet Air 10""",1,520,0.0,520.0,340,180.0,34.61538461538461,2,Dec
+ORD-2023-1111,2023-09-22,2023-09-25,Small Business,Uae,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.0,220.0,90,130.0,59.09090909090909,3,Sep
+ORD-2023-1112,2023-12-10,2023-12-14,Consumer,Egypt,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.05,209.0,90,119.0,56.9377990430622,4,Dec
+ORD-2023-1113,2023-06-14,2023-06-15,Corporate,Uae,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.05,104.5,45,59.5,56.9377990430622,1,Jun
+ORD-2023-1114,2023-08-11,2023-08-12,Consumer,Egypt,Mobile Devices,Smartwatch Series 5,2,280,0.2,448.0,300,148.0,33.035714285714285,1,Aug
+ORD-2023-1115,2023-02-26,2023-02-28,Consumer,Germany,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.05,209.0,90,119.0,56.9377990430622,2,Feb
+ORD-2023-1116,2023-11-06,2023-11-09,Corporate,Germany,Computing,Laptop Pro 15,5,1200,0.05,5700.0,3900,1800.0,31.57894736842105,3,Nov
+ORD-2023-1117,2023-10-28,2023-11-01,Corporate,Egypt,Audio & Accessories,Mechanical Gaming Keyboard,3,110,0.05,313.5,135,178.5,56.9377990430622,4,Oct
+ORD-2023-1118,2023-01-07,2023-01-09,Consumer,Germany,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.0,220.0,95,125.0,56.81818181818182,2,Jan
+ORD-2023-1119,2023-09-07,2023-09-10,Small Business,Egypt,Displays,"4K UHD Monitor 27""",5,380,0.05,1805.0,1300,505.0,27.977839335180054,3,Sep
+ORD-2023-1120,2023-09-07,2023-09-10,Corporate,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,3,110,0.1,297.0,135,162.0,54.54545454545454,3,Sep
+ORD-2023-1121,2023-04-17,2023-04-22,Corporate,Saudi Arabia,Mobile Devices,Smartphone Ultra,1,950,0.0,950.0,600,350.0,36.84210526315789,5,Apr
+ORD-2023-1122,2023-09-29,2023-10-03,Small Business,Saudi Arabia,Computing,"Tablet Air 10""",1,520,0.0,520.0,340,180.0,34.61538461538461,4,Sep
+ORD-2023-1123,2023-09-26,2023-09-29,Consumer,Saudi Arabia,Computing,"Tablet Air 10""",1,520,0.0,520.0,340,180.0,34.61538461538461,3,Sep
+ORD-2023-1124,2023-11-21,2023-11-24,Small Business,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.05,104.5,45,59.5,56.9377990430622,3,Nov
+ORD-2023-1125,2023-08-08,2023-08-10,Consumer,Germany,Computing,"Tablet Air 10""",10,520,0.05,4940.0,3400,1540.0,31.17408906882591,2,Aug
+ORD-2023-1126,2023-04-23,2023-04-25,Small Business,United Kingdom,Computing,Laptop Pro 15,2,1200,0.05,2280.0,1560,720.0,31.57894736842105,2,Apr
+ORD-2023-1127,2023-11-08,2023-11-11,Consumer,Uae,Mobile Devices,Smartwatch Series 5,3,280,0.05,798.0,450,348.0,43.609022556390975,3,Nov
+ORD-2023-1128,2023-01-28,2023-01-29,Consumer,United States,Computing,Laptop Pro 15,1,1200,0.0,1200.0,780,420.0,35.0,1,Jan
+ORD-2023-1129,2023-05-20,2023-05-24,Consumer,Egypt,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.0,110.0,45,65.0,59.09090909090909,4,May
+ORD-2023-1130,2023-02-17,2023-02-21,Consumer,Egypt,Audio & Accessories,Mechanical Gaming Keyboard,4,110,0.15,374.0,180,194.0,51.87165775401069,4,Feb
+ORD-2023-1131,2023-05-07,2023-05-11,Consumer,Germany,Computing,"Tablet Air 10""",1,520,0.1,468.0,340,128.0,27.350427350427353,4,May
+ORD-2023-1132,2023-09-25,2023-09-28,Corporate,Egypt,Computing,Laptop Pro 15,2,1200,0.05,2280.0,1560,720.0,31.57894736842105,3,Sep
+ORD-2023-1133,2023-06-24,2023-06-28,Corporate,Egypt,Computing,"Tablet Air 10""",5,520,0.2,2080.0,1700,380.0,18.269230769230766,4,Jun
+ORD-2023-1134,2023-12-16,2023-12-18,Consumer,Saudi Arabia,Computing,"Tablet Air 10""",4,520,0.0,2080.0,1360,720.0,34.61538461538461,2,Dec
+ORD-2023-1135,2023-06-25,2023-06-26,Corporate,Saudi Arabia,Mobile Devices,Smartphone Ultra,2,950,0.2,1520.0,1200,320.0,21.052631578947366,1,Jun
+ORD-2023-1136,2023-05-05,2023-05-11,Small Business,United Kingdom,Mobile Devices,Smartphone Ultra,5,950,0.0,4750.0,3000,1750.0,36.84210526315789,6,May
+ORD-2023-1137,2023-02-10,2023-02-15,Corporate,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.0,220.0,95,125.0,56.81818181818182,5,Feb
+ORD-2023-1138,2023-01-18,2023-01-21,Consumer,Germany,Displays,"4K UHD Monitor 27""",8,380,0.15,2584.0,2080,504.0,19.5046439628483,3,Jan
+ORD-2023-1139,2023-02-26,2023-02-27,Consumer,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,5,110,0.05,522.5,225,297.5,56.9377990430622,1,Feb
+ORD-2023-1140,2023-09-30,2023-10-01,Small Business,Uae,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.0,220.0,95,125.0,56.81818181818182,1,Sep
+ORD-2023-1141,2023-06-19,2023-06-22,Corporate,Uae,Computing,Laptop Pro 15,2,1200,0.0,2400.0,1560,840.0,35.0,3,Jun
+ORD-2023-1142,2023-05-07,2023-05-09,Consumer,Germany,Audio & Accessories,Noise-Cancelling Headphones,3,220,0.05,627.0,285,342.0,54.54545454545454,2,May
+ORD-2023-1143,2023-02-17,2023-02-20,Consumer,United Kingdom,Mobile Devices,Smartphone Ultra,5,950,0.0,4750.0,3000,1750.0,36.84210526315789,3,Feb
+ORD-2023-1144,2023-01-25,2023-01-28,Consumer,Saudi Arabia,Mobile Devices,Smartwatch Series 5,2,280,0.0,560.0,300,260.0,46.42857142857143,3,Jan
+ORD-2023-1145,2023-09-28,2023-09-30,Consumer,United States,Computing,"Tablet Air 10""",5,520,0.0,2600.0,1700,900.0,34.61538461538461,2,Sep
+ORD-2023-1146,2023-12-31,2024-01-05,Corporate,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,3,110,0.0,330.0,135,195.0,59.09090909090909,5,Dec
+ORD-2023-1147,2023-08-18,2023-08-21,Corporate,Egypt,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.0,220.0,95,125.0,56.81818181818182,3,Aug
+ORD-2023-1148,2023-06-25,2023-06-30,Consumer,Germany,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.05,104.5,45,59.5,56.9377990430622,5,Jun
+ORD-2023-1149,2023-08-02,2023-08-04,Consumer,Uae,Displays,"4K UHD Monitor 27""",1,380,0.1,342.0,260,82.0,23.976608187134502,2,Aug
+ORD-2023-1150,2023-09-03,2023-09-06,Corporate,United Kingdom,Displays,"4K UHD Monitor 27""",1,380,0.0,380.0,260,120.0,31.57894736842105,3,Sep
+ORD-2023-1151,2023-08-09,2023-08-13,Consumer,Saudi Arabia,Displays,"4K UHD Monitor 27""",8,380,0.0,3040.0,2080,960.0,31.57894736842105,4,Aug
+ORD-2023-1152,2023-12-06,2023-12-09,Corporate,Germany,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.0,220.0,95,125.0,56.81818181818182,3,Dec
+ORD-2023-1153,2023-10-11,2023-10-13,Corporate,Uae,Computing,Laptop Pro 15,3,1200,0.0,3600.0,2340,1260.0,35.0,2,Oct
+ORD-2023-1154,2023-05-30,2023-06-02,Consumer,Uae,Audio & Accessories,Mechanical Gaming Keyboard,4,110,0.0,440.0,180,260.0,59.09090909090909,3,May
+ORD-2023-1155,2023-04-07,2023-04-10,Consumer,Saudi Arabia,Mobile Devices,Smartwatch Series 5,3,280,0.0,840.0,450,390.0,46.42857142857143,3,Apr
+ORD-2023-1156,2023-04-04,2023-04-08,Corporate,Uae,Computing,Laptop Pro 15,5,1200,0.1,5400.0,3900,1500.0,27.77777777777778,4,Apr
+ORD-2023-1157,2023-01-18,2023-01-21,Corporate,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.05,104.5,45,59.5,56.9377990430622,3,Jan
+ORD-2023-1158,2023-12-03,2023-12-05,Consumer,United States,Computing,Laptop Pro 15,1,1200,0.1,1080.0,780,300.0,27.77777777777778,2,Dec
+ORD-2023-1159,2023-05-29,2023-06-01,Corporate,Germany,Computing,"Tablet Air 10""",1,520,0.0,520.0,340,180.0,34.61538461538461,3,May
+ORD-2023-1160,2023-11-30,2023-12-01,Consumer,Saudi Arabia,Displays,"4K UHD Monitor 27""",2,380,0.0,760.0,520,240.0,31.57894736842105,1,Nov
+ORD-2023-1161,2023-03-27,2023-03-31,Corporate,Egypt,Computing,"Tablet Air 10""",8,520,0.0,4160.0,2720,1440.0,34.61538461538461,4,Mar
+ORD-2023-1162,2023-06-20,2023-06-22,Corporate,Egypt,Audio & Accessories,Noise-Cancelling Headphones,2,220,0.0,440.0,190,250.0,56.81818181818182,2,Jun
+ORD-2023-1163,2023-08-22,2023-08-25,Consumer,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,8,110,0.0,880.0,360,520.0,59.09090909090909,3,Aug
+ORD-2023-1164,2023-07-17,2023-07-20,Corporate,Saudi Arabia,Mobile Devices,Smartphone Ultra,1,950,0.2,760.0,600,160.0,21.052631578947366,3,Jul
+ORD-2023-1165,2023-07-06,2023-07-10,Small Business,Saudi Arabia,Computing,"Tablet Air 10""",5,520,0.0,2600.0,1700,900.0,34.61538461538461,4,Jul
+ORD-2023-1166,2023-09-17,2023-09-22,Corporate,Uae,Mobile Devices,Smartphone Ultra,4,950,0.05,3610.0,2400,1210.0,33.51800554016621,5,Sep
+ORD-2023-1167,2023-01-06,2023-01-12,Consumer,Saudi Arabia,Mobile Devices,Smartwatch Series 5,3,280,0.0,840.0,450,390.0,46.42857142857143,6,Jan
+ORD-2023-1168,2023-01-18,2023-01-21,Corporate,Saudi Arabia,Mobile Devices,Smartphone Ultra,2,950,0.0,1900.0,1200,700.0,36.84210526315789,3,Jan
+ORD-2023-1169,2023-06-21,2023-06-24,Consumer,Egypt,Mobile Devices,Smartwatch Series 5,1,280,0.1,252.0,150,102.0,40.476190476190474,3,Jun
+ORD-2023-1170,2023-07-01,2023-07-05,Small Business,Saudi Arabia,Mobile Devices,Smartphone Ultra,2,950,0.05,1805.0,1200,605.0,33.51800554016621,4,Jul
+ORD-2023-1171,2023-10-22,2023-10-25,Corporate,Saudi Arabia,Computing,Laptop Pro 15,1,1200,0.0,1200.0,780,420.0,35.0,3,Oct
+ORD-2023-1172,2023-05-23,2023-05-25,Small Business,Germany,Displays,"4K UHD Monitor 27""",1,380,0.0,380.0,260,120.0,31.57894736842105,2,May
+ORD-2023-1173,2023-07-15,2023-07-22,Small Business,Saudi Arabia,Mobile Devices,Smartphone Ultra,2,950,0.0,1900.0,1200,700.0,36.84210526315789,7,Jul
+ORD-2023-1174,2023-02-07,2023-02-10,Small Business,United States,Audio & Accessories,Noise-Cancelling Headphones,10,220,0.0,2200.0,950,1250.0,56.81818181818182,3,Feb
+ORD-2023-1175,2023-03-22,2023-03-25,Small Business,United States,Mobile Devices,Smartphone Ultra,8,950,0.05,7220.0,4800,2420.0,33.51800554016621,3,Mar
+ORD-2023-1176,2023-12-27,2023-12-28,Corporate,United Kingdom,Computing,"Tablet Air 10""",1,520,0.05,494.0,340,154.0,31.17408906882591,1,Dec
+ORD-2023-1177,2023-09-21,2023-09-23,Corporate,United States,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.15,187.0,90,97.0,51.87165775401069,2,Sep
+ORD-2023-1178,2023-01-06,2023-01-10,Small Business,Germany,Mobile Devices,Smartphone Ultra,1,950,0.0,950.0,600,350.0,36.84210526315789,4,Jan
+ORD-2023-1179,2023-10-01,2023-10-05,Corporate,Egypt,Audio & Accessories,Noise-Cancelling Headphones,8,220,0.0,1760.0,760,1000.0,56.81818181818182,4,Oct
+ORD-2023-1180,2023-07-14,2023-07-17,Consumer,United Kingdom,Computing,"Tablet Air 10""",1,520,0.0,520.0,340,180.0,34.61538461538461,3,Jul
+ORD-2023-1181,2023-04-10,2023-04-14,Small Business,United Kingdom,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.05,104.5,45,59.5,56.9377990430622,4,Apr
+ORD-2023-1182,2023-09-16,2023-09-18,Small Business,Egypt,Displays,"4K UHD Monitor 27""",3,380,0.1,1026.0,780,246.0,23.976608187134502,2,Sep
+ORD-2023-1183,2023-03-04,2023-03-07,Small Business,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.0,220.0,90,130.0,59.09090909090909,3,Mar
+ORD-2023-1184,2023-07-16,2023-07-18,Corporate,Egypt,Displays,"4K UHD Monitor 27""",1,380,0.0,380.0,260,120.0,31.57894736842105,2,Jul
+ORD-2023-1185,2023-04-03,2023-04-04,Corporate,Saudi Arabia,Computing,"Tablet Air 10""",2,520,0.0,1040.0,680,360.0,34.61538461538461,1,Apr
+ORD-2023-1186,2023-10-26,2023-10-28,Corporate,Saudi Arabia,Displays,"4K UHD Monitor 27""",10,380,0.1,3420.0,2600,820.0,23.976608187134502,2,Oct
+ORD-2023-1187,2023-05-15,2023-05-17,Consumer,Germany,Mobile Devices,Smartwatch Series 5,2,280,0.0,560.0,300,260.0,46.42857142857143,2,May
+ORD-2023-1188,2023-04-22,2023-04-25,Corporate,United States,Mobile Devices,Smartwatch Series 5,3,280,0.1,756.0,450,306.0,40.476190476190474,3,Apr
+ORD-2023-1189,2023-03-24,2023-03-25,Consumer,Egypt,Mobile Devices,Smartwatch Series 5,1,280,0.05,266.0,150,116.0,43.609022556390975,1,Mar
+ORD-2023-1190,2023-07-28,2023-07-29,Small Business,Uae,Computing,"Tablet Air 10""",2,520,0.0,1040.0,680,360.0,34.61538461538461,1,Jul
+ORD-2023-1191,2023-09-16,2023-09-18,Consumer,Egypt,Displays,"4K UHD Monitor 27""",2,380,0.0,760.0,520,240.0,31.57894736842105,2,Sep
+ORD-2023-1192,2023-02-07,2023-02-09,Consumer,Egypt,Displays,"4K UHD Monitor 27""",8,380,0.1,2736.0,2080,656.0,23.976608187134502,2,Feb
+ORD-2023-1193,2023-12-25,2023-12-28,Corporate,Saudi Arabia,Mobile Devices,Smartphone Ultra,4,950,0.05,3610.0,2400,1210.0,33.51800554016621,3,Dec
+ORD-2023-1194,2023-07-23,2023-07-25,Small Business,Egypt,Audio & Accessories,Noise-Cancelling Headphones,8,220,0.0,1760.0,760,1000.0,56.81818181818182,2,Jul
+ORD-2023-1195,2023-11-12,2023-11-14,Corporate,Uae,Mobile Devices,Smartphone Ultra,2,950,0.0,1900.0,1200,700.0,36.84210526315789,2,Nov
+ORD-2023-1196,2023-05-15,2023-02-05,Consumer,Egypt,Mobile Devices,Smartwatch Series 5,2,280,0.05,532.0,300,232.0,43.609022556390975,-99,May
+ORD-2023-1197,2023-10-11,2023-10-15,Corporate,Uae,Computing,Laptop Pro 15,3,1200,0.05,3420.0,2340,1080.0,31.57894736842105,4,Oct
+ORD-2023-1198,2023-04-18,2023-04-20,Corporate,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.0,220.0,90,130.0,59.09090909090909,2,Apr
+ORD-2023-1199,2023-03-02,2023-03-04,Small Business,United Kingdom,Computing,Laptop Pro 15,5,1200,0.3,4200.0,3900,300.0,7.142857142857142,2,Mar
+ORD-2023-1200,2023-07-25,2023-08-01,Corporate,Egypt,Audio & Accessories,Noise-Cancelling Headphones,3,220,0.0,660.0,285,375.0,56.81818181818182,7,Jul
+ORD-2023-1201,2023-10-10,2023-10-12,Corporate,Saudi Arabia,Mobile Devices,Smartphone Ultra,4,950,0.0,3800.0,2400,1400.0,36.84210526315789,2,Oct
+ORD-2023-1202,2023-01-25,2023-01-29,Corporate,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.1,99.0,45,54.0,54.54545454545454,4,Jan
+ORD-2023-1203,2023-07-26,2023-07-29,Corporate,Uae,Computing,Laptop Pro 15,1,1200,0.1,1080.0,780,300.0,27.77777777777778,3,Jul
+ORD-2023-1204,2023-02-15,2023-02-18,Consumer,Egypt,Mobile Devices,Smartwatch Series 5,1,280,0.2,224.0,150,74.0,33.035714285714285,3,Feb
+ORD-2023-1205,2023-03-13,2023-03-16,Corporate,Saudi Arabia,Computing,"Tablet Air 10""",1,520,0.0,520.0,340,180.0,34.61538461538461,3,Mar
+ORD-2023-1206,2023-12-29,2024-01-01,Consumer,United Kingdom,Displays,"4K UHD Monitor 27""",8,380,0.1,2736.0,2080,656.0,23.976608187134502,3,Dec
+ORD-2023-1207,2023-03-23,2023-03-25,Small Business,Egypt,Mobile Devices,Smartphone Ultra,2,950,0.2,1520.0,1200,320.0,21.052631578947366,2,Mar
+ORD-2023-1208,2023-05-30,2023-06-02,Corporate,Egypt,Mobile Devices,Smartphone Ultra,3,950,0.0,2850.0,1800,1050.0,36.84210526315789,3,May
+ORD-2023-1209,2023-12-12,2023-12-15,Corporate,Egypt,Mobile Devices,Smartphone Ultra,1,950,0.0,950.0,600,350.0,36.84210526315789,3,Dec
+ORD-2023-1210,2023-06-29,2023-06-30,Consumer,Egypt,Computing,"Tablet Air 10""",5,520,0.05,2470.0,1700,770.0,31.17408906882591,1,Jun
+ORD-2023-1211,2023-07-31,2023-08-01,Corporate,Uae,Mobile Devices,Smartwatch Series 5,1,280,0.1,252.0,150,102.0,40.476190476190474,1,Jul
+ORD-2023-1212,2023-08-06,2023-08-09,Consumer,Egypt,Displays,"4K UHD Monitor 27""",1,380,0.05,361.0,260,101.0,27.977839335180054,3,Aug
+ORD-2023-1213,2023-05-27,2023-05-29,Consumer,United States,Computing,Laptop Pro 15,10,1200,0.15,10200.0,7800,2400.0,23.52941176470588,2,May
+ORD-2023-1214,2023-01-01,2023-01-04,Consumer,Germany,Computing,Laptop Pro 15,3,1200,0.2,2880.0,2340,540.0,18.75,3,Jan
+ORD-2023-1215,2023-02-14,2023-02-16,Consumer,Saudi Arabia,Computing,Laptop Pro 15,3,1200,0.0,3600.0,2340,1260.0,35.0,2,Feb
+ORD-2023-1216,2023-01-01,2023-01-04,Consumer,United Kingdom,Displays,"4K UHD Monitor 27""",4,380,0.0,1520.0,1040,480.0,31.57894736842105,3,Jan
+ORD-2023-1217,2023-09-18,2023-09-20,Consumer,Uae,Computing,"Tablet Air 10""",4,520,0.0,2080.0,1360,720.0,34.61538461538461,2,Sep
+ORD-2023-1218,2023-02-19,2023-02-23,Corporate,United Kingdom,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.05,209.0,95,114.0,54.54545454545454,4,Feb
+ORD-2023-1219,2023-05-11,2023-05-14,Consumer,Egypt,Displays,"4K UHD Monitor 27""",1,380,0.0,380.0,260,120.0,31.57894736842105,3,May
+ORD-2023-1220,2023-12-22,2023-12-27,Corporate,United Kingdom,Displays,"4K UHD Monitor 27""",1,380,0.05,361.0,260,101.0,27.977839335180054,5,Dec
+ORD-2023-1221,2023-04-28,2023-05-02,Small Business,Germany,Computing,Laptop Pro 15,2,1200,0.0,2400.0,1560,840.0,35.0,4,Apr
+ORD-2023-1222,2023-02-06,2023-02-10,Consumer,Uae,Mobile Devices,Smartphone Ultra,10,950,0.0,9500.0,6000,3500.0,36.84210526315789,4,Feb
+ORD-2023-1223,2023-08-12,2023-08-15,Small Business,United Kingdom,Mobile Devices,Smartwatch Series 5,2,280,0.1,504.0,300,204.0,40.476190476190474,3,Aug
+ORD-2023-1224,2023-01-10,2023-01-11,Corporate,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,2,220,0.0,440.0,190,250.0,56.81818181818182,1,Jan
+ORD-2023-1225,2023-03-10,2023-03-12,Corporate,Uae,Computing,Laptop Pro 15,2,1200,0.0,2400.0,1560,840.0,35.0,2,Mar
+ORD-2023-1226,2023-02-03,2023-02-06,Small Business,Uae,Displays,"4K UHD Monitor 27""",4,380,0.0,1520.0,1040,480.0,31.57894736842105,3,Feb
+ORD-2023-1227,2023-05-08,2023-05-10,Consumer,Germany,Mobile Devices,Smartphone Ultra,3,950,0.15,2422.5,1800,622.5,25.696594427244584,2,May
+ORD-2023-1228,2023-01-04,2023-01-06,Consumer,United Kingdom,Audio & Accessories,Noise-Cancelling Headphones,10,220,0.0,2200.0,950,1250.0,56.81818181818182,2,Jan
+ORD-2023-1229,2023-11-02,2023-11-04,Consumer,Uae,Computing,Laptop Pro 15,3,1200,0.0,3600.0,2340,1260.0,35.0,2,Nov
+ORD-2023-1230,2023-07-19,2023-07-20,Consumer,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,4,220,0.05,836.0,380,456.0,54.54545454545454,1,Jul
+ORD-2023-1231,2023-05-10,2023-05-11,Consumer,Egypt,Displays,"4K UHD Monitor 27""",5,380,0.0,1900.0,1300,600.0,31.57894736842105,1,May
+ORD-2023-1232,2023-04-23,2023-04-25,Consumer,Egypt,Mobile Devices,Smartwatch Series 5,2,280,0.2,448.0,300,148.0,33.035714285714285,2,Apr
+ORD-2023-1233,2023-05-09,2023-05-10,Corporate,United Kingdom,Mobile Devices,Smartphone Ultra,8,950,0.1,6840.0,4800,2040.0,29.82456140350877,1,May
+ORD-2023-1234,2023-10-04,2023-10-06,Small Business,Uae,Computing,Laptop Pro 15,1,1200,0.05,1140.0,780,360.0,31.57894736842105,2,Oct
+ORD-2023-1235,2023-07-17,2023-07-20,Corporate,Uae,Mobile Devices,Smartphone Ultra,4,950,0.1,3420.0,2400,1020.0,29.82456140350877,3,Jul
+ORD-2023-1236,2023-02-19,2023-02-24,Consumer,Uae,Displays,"4K UHD Monitor 27""",2,380,0.1,684.0,520,164.0,23.976608187134502,5,Feb
+ORD-2023-1237,2023-10-12,2023-10-13,Consumer,Uae,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.0,220.0,90,130.0,59.09090909090909,1,Oct
+ORD-2023-1238,2023-01-08,2023-01-10,Consumer,United Kingdom,Displays,"4K UHD Monitor 27""",1,380,0.1,342.0,260,82.0,23.976608187134502,2,Jan
+ORD-2023-1239,2023-11-20,2023-11-25,Small Business,United Kingdom,Mobile Devices,Smartphone Ultra,1,950,0.1,855.0,600,255.0,29.82456140350877,5,Nov
+ORD-2023-1240,2023-07-28,2023-07-31,Consumer,United Kingdom,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.1,99.0,45,54.0,54.54545454545454,3,Jul
+ORD-2023-1241,2023-03-07,2023-03-09,Consumer,Egypt,Computing,"Tablet Air 10""",3,520,0.0,1560.0,1020,540.0,34.61538461538461,2,Mar
+ORD-2023-1242,2023-03-23,2023-03-26,Consumer,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,2,220,0.05,418.0,190,228.0,54.54545454545454,3,Mar
+ORD-2023-1243,2023-03-26,2023-03-29,Consumer,Uae,Audio & Accessories,Mechanical Gaming Keyboard,5,110,0.0,550.0,225,325.0,59.09090909090909,3,Mar
+ORD-2023-1244,2023-02-10,2023-02-12,Corporate,Egypt,Mobile Devices,Smartphone Ultra,1,950,0.05,902.5,600,302.5,33.51800554016621,2,Feb
+ORD-2023-1245,2023-07-30,2023-08-02,Consumer,Germany,Computing,"Tablet Air 10""",1,520,0.0,520.0,340,180.0,34.61538461538461,3,Jul
+ORD-2023-1246,2023-02-22,2023-02-25,Corporate,Germany,Mobile Devices,Smartphone Ultra,1,950,0.15,807.5,600,207.5,25.696594427244584,3,Feb
+ORD-2023-1247,2023-01-17,2023-01-18,Small Business,Germany,Mobile Devices,Smartphone Ultra,1,950,0.05,902.5,600,302.5,33.51800554016621,1,Jan
+ORD-2023-1248,2023-01-29,2023-02-04,Corporate,Egypt,Mobile Devices,Smartwatch Series 5,3,280,0.0,840.0,450,390.0,46.42857142857143,6,Jan
+ORD-2023-1249,2023-04-05,2023-04-06,Corporate,Saudi Arabia,Computing,Laptop Pro 15,2,1200,0.2,1920.0,1560,360.0,18.75,1,Apr
+ORD-2023-1250,2023-06-08,2023-06-10,Small Business,Egypt,Computing,Laptop Pro 15,4,1200,0.0,4800.0,3120,1680.0,35.0,2,Jun
+ORD-2023-1251,2023-01-20,2023-01-22,Corporate,Germany,Mobile Devices,Smartphone Ultra,8,950,0.0,7600.0,4800,2800.0,36.84210526315789,2,Jan
+ORD-2023-1252,2023-06-24,2023-06-27,Consumer,United States,Audio & Accessories,Noise-Cancelling Headphones,2,220,0.05,418.0,190,228.0,54.54545454545454,3,Jun
+ORD-2023-1253,2023-12-09,2023-12-10,Consumer,Saudi Arabia,Computing,"Tablet Air 10""",1,520,0.2,416.0,340,76.0,18.269230769230766,1,Dec
+ORD-2023-1254,2023-12-29,2024-01-04,Corporate,Saudi Arabia,Displays,"4K UHD Monitor 27""",3,380,0.0,1140.0,780,360.0,31.57894736842105,6,Dec
+ORD-2023-1255,2023-03-31,2023-04-03,Consumer,Egypt,Computing,Laptop Pro 15,2,1200,0.05,2280.0,1560,720.0,31.57894736842105,3,Mar
+ORD-2023-1256,2023-02-19,2023-02-22,Small Business,Egypt,Audio & Accessories,Noise-Cancelling Headphones,4,220,0.0,880.0,380,500.0,56.81818181818182,3,Feb
+ORD-2023-1257,2023-05-03,2023-05-07,Consumer,Egypt,Mobile Devices,Smartphone Ultra,1,950,0.05,902.5,600,302.5,33.51800554016621,4,May
+ORD-2023-1258,2023-12-10,2023-12-14,Consumer,United Kingdom,Mobile Devices,Smartwatch Series 5,4,280,0.3,784.0,600,184.0,23.46938775510204,4,Dec
+ORD-2023-1259,2023-08-11,2023-08-15,Corporate,Germany,Computing,"Tablet Air 10""",1,520,0.0,520.0,340,180.0,34.61538461538461,4,Aug
+ORD-2023-1260,2023-06-13,2023-06-15,Corporate,Uae,Mobile Devices,Smartphone Ultra,2,950,0.0,1900.0,1200,700.0,36.84210526315789,2,Jun
+ORD-2023-1261,2023-05-30,2023-05-31,Corporate,Germany,Computing,Laptop Pro 15,1,1200,0.0,1200.0,780,420.0,35.0,1,May
+ORD-2023-1262,2023-08-08,2023-08-10,Consumer,Egypt,Mobile Devices,Smartphone Ultra,2,950,0.0,1900.0,1200,700.0,36.84210526315789,2,Aug
+ORD-2023-1263,2023-05-31,2023-06-04,Small Business,Uae,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.0,220.0,95,125.0,56.81818181818182,4,May
+ORD-2023-1264,2023-02-15,2023-02-18,Consumer,United Kingdom,Computing,Laptop Pro 15,1,1200,0.1,1080.0,780,300.0,27.77777777777778,3,Feb
+ORD-2023-1265,2023-03-21,2023-03-25,Corporate,Uae,Computing,Laptop Pro 15,2,1200,0.0,2400.0,1560,840.0,35.0,4,Mar
+ORD-2023-1266,2023-06-24,2023-06-28,Consumer,Saudi Arabia,Computing,Laptop Pro 15,5,1200,0.1,5400.0,3900,1500.0,27.77777777777778,4,Jun
+ORD-2023-1267,2023-05-21,2023-05-24,Corporate,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,3,220,0.1,594.0,285,309.0,52.02020202020202,3,May
+ORD-2023-1268,2023-02-22,2023-02-26,Consumer,Egypt,Displays,"4K UHD Monitor 27""",1,380,0.1,342.0,260,82.0,23.976608187134502,4,Feb
+ORD-2023-1269,2023-07-23,2023-07-29,Corporate,Uae,Computing,Laptop Pro 15,2,1200,0.15,2040.0,1560,480.0,23.52941176470588,6,Jul
+ORD-2023-1270,2023-07-21,2023-07-22,Corporate,Germany,Mobile Devices,Smartphone Ultra,1,950,0.0,950.0,600,350.0,36.84210526315789,1,Jul
+ORD-2023-1271,2023-12-31,2024-01-02,Consumer,Uae,Displays,"4K UHD Monitor 27""",5,380,0.0,1900.0,1300,600.0,31.57894736842105,2,Dec
+ORD-2023-1272,2023-05-10,2023-05-11,Consumer,Saudi Arabia,Computing,"Tablet Air 10""",5,520,0.0,2600.0,1700,900.0,34.61538461538461,1,May
+ORD-2023-1273,2023-06-12,2023-06-17,Small Business,Germany,Mobile Devices,Smartwatch Series 5,1,280,0.0,280.0,150,130.0,46.42857142857143,5,Jun
+ORD-2023-1274,2023-12-05,2023-12-08,Consumer,Uae,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.15,187.0,95,92.0,49.19786096256685,3,Dec
+ORD-2023-1275,2023-11-08,2023-11-13,Consumer,Germany,Audio & Accessories,Mechanical Gaming Keyboard,3,110,0.0,330.0,135,195.0,59.09090909090909,5,Nov
+ORD-2023-1276,2023-02-09,2023-02-13,Consumer,Egypt,Computing,"Tablet Air 10""",1,520,0.0,520.0,340,180.0,34.61538461538461,4,Feb
+ORD-2023-1277,2023-05-13,2023-05-16,Consumer,Saudi Arabia,Mobile Devices,Smartwatch Series 5,2,280,0.1,504.0,300,204.0,40.476190476190474,3,May
+ORD-2023-1278,2023-05-14,2023-05-16,Consumer,Saudi Arabia,Computing,"Tablet Air 10""",4,520,0.05,1976.0,1360,616.0,31.17408906882591,2,May
+ORD-2023-1279,2023-10-16,2023-10-22,Corporate,Saudi Arabia,Mobile Devices,Smartphone Ultra,1,950,0.0,950.0,600,350.0,36.84210526315789,6,Oct
+ORD-2023-1280,2023-12-14,2023-12-15,Small Business,Germany,Displays,"4K UHD Monitor 27""",10,380,0.05,3610.0,2600,1010.0,27.977839335180054,1,Dec
+ORD-2023-1281,2023-06-25,2023-06-28,Small Business,Germany,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.1,99.0,45,54.0,54.54545454545454,3,Jun
+ORD-2023-1282,2023-10-27,2023-10-28,Consumer,United States,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.05,209.0,90,119.0,56.9377990430622,1,Oct
+ORD-2023-1283,2023-07-31,2023-08-04,Small Business,United States,Audio & Accessories,Noise-Cancelling Headphones,2,220,0.05,418.0,190,228.0,54.54545454545454,4,Jul
+ORD-2023-1284,2023-10-29,2023-10-31,Consumer,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.0,110.0,45,65.0,59.09090909090909,2,Oct
+ORD-2023-1285,2023-08-16,2023-08-20,Consumer,Egypt,Computing,"Tablet Air 10""",5,520,0.05,2470.0,1700,770.0,31.17408906882591,4,Aug
+ORD-2023-1286,2023-03-09,2023-03-12,Consumer,Egypt,Computing,"Tablet Air 10""",2,520,0.0,1040.0,680,360.0,34.61538461538461,3,Mar
+ORD-2023-1287,2023-07-12,2023-07-16,Consumer,Egypt,Computing,Laptop Pro 15,1,1200,0.1,1080.0,780,300.0,27.77777777777778,4,Jul
+ORD-2023-1288,2023-11-20,2023-11-23,Corporate,Egypt,Displays,"4K UHD Monitor 27""",1,380,0.05,361.0,260,101.0,27.977839335180054,3,Nov
+ORD-2023-1289,2023-10-16,2023-10-17,Consumer,Germany,Mobile Devices,Smartphone Ultra,3,950,0.3,1995.0,1800,195.0,9.774436090225564,1,Oct
+ORD-2023-1290,2023-06-20,2023-06-23,Small Business,Saudi Arabia,Mobile Devices,Smartphone Ultra,1,950,0.0,950.0,600,350.0,36.84210526315789,3,Jun
+ORD-2023-1291,2023-10-14,2023-10-16,Corporate,Saudi Arabia,Mobile Devices,Smartphone Ultra,5,950,0.0,4750.0,3000,1750.0,36.84210526315789,2,Oct
+ORD-2023-1292,2023-04-09,2023-04-10,Corporate,Germany,Displays,"4K UHD Monitor 27""",3,380,0.15,969.0,780,189.0,19.5046439628483,1,Apr
+ORD-2023-1293,2023-01-20,2023-01-26,Small Business,Saudi Arabia,Mobile Devices,Smartwatch Series 5,4,280,0.15,952.0,600,352.0,36.97478991596639,6,Jan
+ORD-2023-1294,2023-08-06,2023-08-07,Corporate,Saudi Arabia,Mobile Devices,Smartwatch Series 5,2,280,0.05,532.0,300,232.0,43.609022556390975,1,Aug
+ORD-2023-1295,2023-11-11,2023-11-15,Small Business,Saudi Arabia,Displays,"4K UHD Monitor 27""",5,380,0.05,1805.0,1300,505.0,27.977839335180054,4,Nov
+ORD-2023-1296,2023-08-08,2023-08-15,Corporate,United States,Mobile Devices,Smartwatch Series 5,1,280,0.1,252.0,150,102.0,40.476190476190474,7,Aug
+ORD-2023-1297,2023-03-11,2023-03-13,Consumer,United States,Computing,"Tablet Air 10""",3,520,0.0,1560.0,1020,540.0,34.61538461538461,2,Mar
+ORD-2023-1298,2023-01-12,2023-01-14,Consumer,Uae,Computing,"Tablet Air 10""",4,520,0.0,2080.0,1360,720.0,34.61538461538461,2,Jan
+ORD-2023-1299,2023-08-05,2023-08-08,Small Business,Egypt,Audio & Accessories,Mechanical Gaming Keyboard,3,110,0.05,313.5,135,178.5,56.9377990430622,3,Aug
+ORD-2023-1300,2023-12-09,2023-12-12,Consumer,Uae,Computing,Laptop Pro 15,4,1200,0.15,4080.0,3120,960.0,23.52941176470588,3,Dec
+ORD-2023-1301,2023-11-23,2023-11-29,Consumer,Uae,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.0,110.0,45,65.0,59.09090909090909,6,Nov
+ORD-2023-1302,2023-07-21,2023-07-23,Corporate,Uae,Computing,"Tablet Air 10""",2,520,0.0,1040.0,680,360.0,34.61538461538461,2,Jul
+ORD-2023-1303,2023-10-03,2023-10-06,Corporate,Germany,Computing,Laptop Pro 15,1,1200,0.05,1140.0,780,360.0,31.57894736842105,3,Oct
+ORD-2023-1304,2023-07-12,2023-07-16,Consumer,Egypt,Displays,"4K UHD Monitor 27""",10,380,0.05,3610.0,2600,1010.0,27.977839335180054,4,Jul
+ORD-2023-1305,2023-01-12,2023-01-16,Corporate,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,3,110,0.0,330.0,135,195.0,59.09090909090909,4,Jan
+ORD-2023-1306,2023-07-11,2023-07-12,Consumer,Uae,Displays,"4K UHD Monitor 27""",2,380,0.0,760.0,520,240.0,31.57894736842105,1,Jul
+ORD-2023-1307,2023-02-22,2023-02-23,Corporate,Egypt,Mobile Devices,Smartphone Ultra,3,950,0.05,2707.5,1800,907.5,33.51800554016621,1,Feb
+ORD-2023-1308,2023-01-18,2023-01-24,Consumer,Saudi Arabia,Computing,Laptop Pro 15,2,1200,0.2,1920.0,1560,360.0,18.75,6,Jan
+ORD-2023-1309,2023-07-06,2023-07-07,Consumer,United States,Computing,Laptop Pro 15,3,1200,0.0,3600.0,2340,1260.0,35.0,1,Jul
+ORD-2023-1310,2023-10-17,2023-10-18,Corporate,Germany,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.0,110.0,45,65.0,59.09090909090909,1,Oct
+ORD-2023-1311,2023-09-06,2023-09-11,Small Business,United Kingdom,Computing,Laptop Pro 15,2,1200,0.05,2280.0,1560,720.0,31.57894736842105,5,Sep
+ORD-2023-1312,2023-06-15,2023-06-18,Corporate,Uae,Mobile Devices,Smartphone Ultra,1,950,0.1,855.0,600,255.0,29.82456140350877,3,Jun
+ORD-2023-1313,2023-12-08,2023-12-12,Corporate,Germany,Audio & Accessories,Noise-Cancelling Headphones,2,220,0.05,418.0,190,228.0,54.54545454545454,4,Dec
+ORD-2023-1314,2023-05-27,2023-05-28,Corporate,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,2,220,0.0,440.0,190,250.0,56.81818181818182,1,May
+ORD-2023-1315,2023-10-23,2023-10-25,Consumer,United Kingdom,Computing,"Tablet Air 10""",3,520,0.15,1326.0,1020,306.0,23.076923076923077,2,Oct
+ORD-2023-1316,2023-06-08,2023-06-09,Corporate,United Kingdom,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.05,209.0,95,114.0,54.54545454545454,1,Jun
+ORD-2023-1317,2023-02-20,2023-02-25,Consumer,Germany,Mobile Devices,Smartphone Ultra,10,950,0.05,9025.0,6000,3025.0,33.51800554016621,5,Feb
+ORD-2023-1318,2023-09-09,2023-09-10,Corporate,Germany,Mobile Devices,Smartphone Ultra,1,950,0.15,807.5,600,207.5,25.696594427244584,1,Sep
+ORD-2023-1319,2023-03-12,2023-03-14,Consumer,Saudi Arabia,Displays,"4K UHD Monitor 27""",1,380,0.0,380.0,260,120.0,31.57894736842105,2,Mar
+ORD-2023-1320,2023-02-10,2023-02-13,Consumer,Uae,Displays,"4K UHD Monitor 27""",8,380,0.05,2888.0,2080,808.0,27.977839335180054,3,Feb
+ORD-2023-1321,2023-07-02,2023-07-04,Consumer,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,5,110,0.05,522.5,225,297.5,56.9377990430622,2,Jul
+ORD-2023-1322,2023-07-04,2023-07-11,Corporate,Egypt,Computing,"Tablet Air 10""",2,520,0.0,1040.0,680,360.0,34.61538461538461,7,Jul
+ORD-2023-1323,2023-04-19,2023-04-22,Consumer,Germany,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.2,176.0,95,81.0,46.02272727272727,3,Apr
+ORD-2023-1324,2023-07-19,2023-07-23,Consumer,Egypt,Computing,"Tablet Air 10""",10,520,0.0,5200.0,3400,1800.0,34.61538461538461,4,Jul
+ORD-2023-1325,2023-12-27,2023-12-31,Corporate,United States,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.05,209.0,90,119.0,56.9377990430622,4,Dec
+ORD-2023-1326,2023-12-07,2023-12-13,Small Business,Germany,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.15,187.0,90,97.0,51.87165775401069,6,Dec
+ORD-2023-1327,2023-10-07,2023-10-12,Consumer,Egypt,Audio & Accessories,Noise-Cancelling Headphones,2,220,0.0,440.0,190,250.0,56.81818181818182,5,Oct
+ORD-2023-1328,2023-01-16,2023-01-19,Corporate,Germany,Mobile Devices,Smartphone Ultra,1,950,0.0,950.0,600,350.0,36.84210526315789,3,Jan
+ORD-2023-1329,2023-11-26,2023-12-01,Consumer,United States,Mobile Devices,Smartphone Ultra,8,950,0.1,6840.0,4800,2040.0,29.82456140350877,5,Nov
+ORD-2023-1330,2023-04-04,2023-04-07,Consumer,Germany,Computing,Laptop Pro 15,1,1200,0.0,1200.0,780,420.0,35.0,3,Apr
+ORD-2023-1331,2023-06-11,2023-06-14,Consumer,Germany,Displays,"4K UHD Monitor 27""",2,380,0.05,722.0,520,202.0,27.977839335180054,3,Jun
+ORD-2023-1332,2023-06-24,2023-06-25,Corporate,United States,Mobile Devices,Smartwatch Series 5,1,280,0.0,280.0,150,130.0,46.42857142857143,1,Jun
+ORD-2023-1333,2023-11-22,2023-11-26,Consumer,Uae,Computing,"Tablet Air 10""",3,520,0.0,1560.0,1020,540.0,34.61538461538461,4,Nov
+ORD-2023-1334,2023-07-06,2023-07-07,Consumer,Saudi Arabia,Computing,Laptop Pro 15,1,1200,0.3,840.0,780,60.0,7.142857142857142,1,Jul
+ORD-2023-1335,2023-12-26,2023-12-29,Corporate,United Kingdom,Displays,"4K UHD Monitor 27""",8,380,0.0,3040.0,2080,960.0,31.57894736842105,3,Dec
+ORD-2023-1336,2023-09-20,2023-09-22,Corporate,Uae,Computing,"Tablet Air 10""",4,520,0.0,2080.0,1360,720.0,34.61538461538461,2,Sep
+ORD-2023-1337,2023-01-31,2023-02-01,Corporate,Egypt,Computing,Laptop Pro 15,1,1200,0.0,1200.0,780,420.0,35.0,1,Jan
+ORD-2023-1338,2023-08-11,2023-08-16,Corporate,Egypt,Displays,"4K UHD Monitor 27""",2,380,0.1,684.0,520,164.0,23.976608187134502,5,Aug
+ORD-2023-1339,2023-10-07,2023-10-08,Consumer,Germany,Computing,Laptop Pro 15,2,1200,0.0,2400.0,1560,840.0,35.0,1,Oct
+ORD-2023-1340,2023-11-08,2023-11-10,Consumer,Germany,Mobile Devices,Smartphone Ultra,2,950,0.0,1900.0,1200,700.0,36.84210526315789,2,Nov
+ORD-2023-1341,2023-05-24,2023-05-28,Corporate,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.05,104.5,45,59.5,56.9377990430622,4,May
+ORD-2023-1342,2023-11-17,2023-11-20,Consumer,Germany,Computing,"Tablet Air 10""",3,520,0.0,1560.0,1020,540.0,34.61538461538461,3,Nov
+ORD-2023-1343,2023-11-17,2023-11-20,Corporate,Egypt,Computing,Laptop Pro 15,1,1200,0.05,1140.0,780,360.0,31.57894736842105,3,Nov
+ORD-2023-1344,2023-01-04,2023-01-09,Small Business,Egypt,Mobile Devices,Smartwatch Series 5,1,280,0.1,252.0,150,102.0,40.476190476190474,5,Jan
+ORD-2023-1345,2023-02-02,2023-02-06,Consumer,United Kingdom,Computing,Laptop Pro 15,10,1200,0.0,12000.0,7800,4200.0,35.0,4,Feb
+ORD-2023-1346,2023-10-06,2023-10-10,Consumer,Uae,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.0,220.0,95,125.0,56.81818181818182,4,Oct
+ORD-2023-1347,2023-11-09,2023-11-12,Corporate,Saudi Arabia,Computing,Laptop Pro 15,1,1200,0.1,1080.0,780,300.0,27.77777777777778,3,Nov
+ORD-2023-1348,2023-07-14,2023-07-18,Consumer,Egypt,Mobile Devices,Smartwatch Series 5,1,280,0.0,280.0,150,130.0,46.42857142857143,4,Jul
+ORD-2023-1349,2023-05-31,2023-06-01,Consumer,Egypt,Mobile Devices,Smartwatch Series 5,3,280,0.0,840.0,450,390.0,46.42857142857143,1,May
+ORD-2023-1350,2023-07-31,2023-08-04,Consumer,United States,Mobile Devices,Smartphone Ultra,2,950,0.05,1805.0,1200,605.0,33.51800554016621,4,Jul
+ORD-2023-1351,2023-02-09,2023-02-11,Small Business,Egypt,Computing,"Tablet Air 10""",8,520,0.05,3952.0,2720,1232.0,31.17408906882591,2,Feb
+ORD-2023-1352,2023-05-14,2023-05-17,Consumer,United Kingdom,Audio & Accessories,Mechanical Gaming Keyboard,10,110,0.1,990.0,450,540.0,54.54545454545454,3,May
+ORD-2023-1353,2023-03-13,2023-03-15,Consumer,United States,Mobile Devices,Smartphone Ultra,4,950,0.1,3420.0,2400,1020.0,29.82456140350877,2,Mar
+ORD-2023-1354,2023-09-23,2023-09-30,Consumer,Saudi Arabia,Computing,"Tablet Air 10""",2,520,0.0,1040.0,680,360.0,34.61538461538461,7,Sep
+ORD-2023-1355,2023-07-09,2023-07-12,Consumer,Egypt,Audio & Accessories,Noise-Cancelling Headphones,4,220,0.05,836.0,380,456.0,54.54545454545454,3,Jul
+ORD-2023-1356,2023-06-14,2023-06-17,Small Business,United Kingdom,Computing,Laptop Pro 15,1,1200,0.0,1200.0,780,420.0,35.0,3,Jun
+ORD-2023-1357,2023-07-14,2023-07-16,Corporate,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,3,220,0.15,561.0,285,276.0,49.19786096256685,2,Jul
+ORD-2023-1358,2023-11-21,2023-11-24,Consumer,Saudi Arabia,Mobile Devices,Smartphone Ultra,1,950,0.0,950.0,600,350.0,36.84210526315789,3,Nov
+ORD-2023-1359,2023-08-17,2023-08-24,Consumer,Germany,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.05,209.0,95,114.0,54.54545454545454,7,Aug
+ORD-2023-1360,2023-04-19,2023-04-20,Corporate,Egypt,Computing,"Tablet Air 10""",5,520,0.2,2080.0,1700,380.0,18.269230769230766,1,Apr
+ORD-2023-1361,2023-12-27,2024-01-03,Consumer,Germany,Mobile Devices,Smartphone Ultra,3,950,0.1,2565.0,1800,765.0,29.82456140350877,7,Dec
+ORD-2023-1362,2023-07-23,2023-07-24,Consumer,Egypt,Displays,"4K UHD Monitor 27""",2,380,0.05,722.0,520,202.0,27.977839335180054,1,Jul
+ORD-2023-1363,2023-01-18,2023-01-20,Corporate,United Kingdom,Computing,Laptop Pro 15,1,1200,0.0,1200.0,780,420.0,35.0,2,Jan
+ORD-2023-1364,2023-09-17,2023-09-22,Small Business,Uae,Displays,"4K UHD Monitor 27""",1,380,0.0,380.0,260,120.0,31.57894736842105,5,Sep
+ORD-2023-1365,2023-02-01,2023-02-02,Consumer,Germany,Audio & Accessories,Mechanical Gaming Keyboard,4,110,0.0,440.0,180,260.0,59.09090909090909,1,Feb
+ORD-2023-1366,2023-01-27,2023-01-31,Small Business,Egypt,Mobile Devices,Smartphone Ultra,1,950,0.05,902.5,600,302.5,33.51800554016621,4,Jan
+ORD-2023-1367,2023-01-30,2023-01-31,Corporate,Egypt,Computing,"Tablet Air 10""",3,520,0.0,1560.0,1020,540.0,34.61538461538461,1,Jan
+ORD-2023-1368,2023-12-09,2023-12-12,Consumer,United Kingdom,Mobile Devices,Smartphone Ultra,2,950,0.0,1900.0,1200,700.0,36.84210526315789,3,Dec
+ORD-2023-1369,2023-05-25,2023-05-26,Corporate,United States,Audio & Accessories,Noise-Cancelling Headphones,3,220,0.0,660.0,285,375.0,56.81818181818182,1,May
+ORD-2023-1370,2023-05-29,2023-06-01,Corporate,United Kingdom,Computing,"Tablet Air 10""",4,520,0.05,1976.0,1360,616.0,31.17408906882591,3,May
+ORD-2023-1371,2023-02-07,2023-02-09,Corporate,Germany,Displays,"4K UHD Monitor 27""",1,380,0.1,342.0,260,82.0,23.976608187134502,2,Feb
+ORD-2023-1372,2023-02-06,2023-02-07,Corporate,Saudi Arabia,Mobile Devices,Smartphone Ultra,2,950,0.0,1900.0,1200,700.0,36.84210526315789,1,Feb
+ORD-2023-1373,2023-10-02,2023-10-03,Corporate,United Kingdom,Mobile Devices,Smartphone Ultra,2,950,0.05,1805.0,1200,605.0,33.51800554016621,1,Oct
+ORD-2023-1374,2023-02-22,2023-02-25,Corporate,Uae,Mobile Devices,Smartphone Ultra,1,950,0.15,807.5,600,207.5,25.696594427244584,3,Feb
+ORD-2023-1375,2023-08-02,2023-08-06,Consumer,Saudi Arabia,Mobile Devices,Smartwatch Series 5,1,280,0.0,280.0,150,130.0,46.42857142857143,4,Aug
+ORD-2023-1376,2023-08-01,2023-08-04,Consumer,United States,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.0,220.0,90,130.0,59.09090909090909,3,Aug
+ORD-2023-1377,2023-03-23,2023-03-30,Consumer,United States,Displays,"4K UHD Monitor 27""",2,380,0.3,532.0,520,12.0,2.2556390977443606,7,Mar
+ORD-2023-1378,2023-05-30,2023-06-01,Consumer,Egypt,Audio & Accessories,Noise-Cancelling Headphones,2,220,0.0,440.0,190,250.0,56.81818181818182,2,May
+ORD-2023-1379,2023-03-30,2023-03-31,Corporate,United States,Computing,Laptop Pro 15,3,1200,0.0,3600.0,2340,1260.0,35.0,1,Mar
+ORD-2023-1380,2023-09-24,2023-09-27,Consumer,Saudi Arabia,Mobile Devices,Smartphone Ultra,5,950,0.3,3325.0,3000,325.0,9.774436090225564,3,Sep
+ORD-2023-1381,2023-10-08,2023-10-11,Corporate,Uae,Audio & Accessories,Noise-Cancelling Headphones,2,220,0.0,440.0,190,250.0,56.81818181818182,3,Oct
+ORD-2023-1382,2023-09-30,2023-10-02,Corporate,Uae,Mobile Devices,Smartwatch Series 5,4,280,0.0,1120.0,600,520.0,46.42857142857143,2,Sep
+ORD-2023-1383,2023-04-16,2023-04-18,Corporate,United Kingdom,Displays,"4K UHD Monitor 27""",1,380,0.05,361.0,260,101.0,27.977839335180054,2,Apr
+ORD-2023-1384,2023-08-04,2023-08-07,Consumer,United Kingdom,Audio & Accessories,Mechanical Gaming Keyboard,4,110,0.05,418.0,180,238.0,56.9377990430622,3,Aug
+ORD-2023-1385,2023-02-11,2023-02-15,Corporate,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.15,187.0,90,97.0,51.87165775401069,4,Feb
+ORD-2023-1386,2023-04-18,2023-04-23,Consumer,Uae,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.15,187.0,90,97.0,51.87165775401069,5,Apr
+ORD-2023-1387,2023-04-10,2023-04-13,Consumer,United States,Computing,"Tablet Air 10""",2,520,0.05,988.0,680,308.0,31.17408906882591,3,Apr
+ORD-2023-1388,2023-11-06,2023-11-12,Small Business,Uae,Mobile Devices,Smartwatch Series 5,2,280,0.0,560.0,300,260.0,46.42857142857143,6,Nov
+ORD-2023-1389,2023-09-21,2023-09-26,Consumer,Egypt,Computing,Laptop Pro 15,2,1200,0.05,2280.0,1560,720.0,31.57894736842105,5,Sep
+ORD-2023-1390,2023-02-14,2023-02-17,Corporate,United States,Displays,"4K UHD Monitor 27""",3,380,0.0,1140.0,780,360.0,31.57894736842105,3,Feb
+ORD-2023-1391,2023-01-02,2023-01-08,Consumer,United Kingdom,Computing,Laptop Pro 15,1,1200,0.0,1200.0,780,420.0,35.0,6,Jan
+ORD-2023-1392,2023-04-27,2023-04-28,Corporate,Germany,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.05,104.5,45,59.5,56.9377990430622,1,Apr
+ORD-2023-1393,2023-08-19,2023-08-25,Consumer,United Kingdom,Displays,"4K UHD Monitor 27""",1,380,0.2,304.0,260,44.0,14.473684210526317,6,Aug
+ORD-2023-1394,2023-04-17,2023-04-23,Corporate,Saudi Arabia,Mobile Devices,Smartphone Ultra,1,950,0.2,760.0,600,160.0,21.052631578947366,6,Apr
+ORD-2023-1395,2023-01-25,2023-01-31,Small Business,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.05,209.0,95,114.0,54.54545454545454,6,Jan
+ORD-2023-1396,2023-06-15,2023-06-17,Small Business,United States,Mobile Devices,Smartwatch Series 5,2,280,0.0,560.0,300,260.0,46.42857142857143,2,Jun
+ORD-2023-1397,2023-04-16,2023-04-18,Small Business,Egypt,Mobile Devices,Smartphone Ultra,2,950,0.0,1900.0,1200,700.0,36.84210526315789,2,Apr
+ORD-2023-1398,2023-11-07,2023-11-10,Consumer,Egypt,Mobile Devices,Smartwatch Series 5,4,280,0.1,1008.0,600,408.0,40.476190476190474,3,Nov
+ORD-2023-1399,2023-11-14,2023-11-17,Consumer,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.2,176.0,90,86.0,48.86363636363637,3,Nov
+ORD-2023-1400,2023-10-25,2023-10-26,Small Business,United Kingdom,Mobile Devices,Smartwatch Series 5,1,280,0.0,280.0,150,130.0,46.42857142857143,1,Oct
+ORD-2023-1401,2023-08-03,2023-08-05,Consumer,Germany,Computing,"Tablet Air 10""",4,520,0.05,1976.0,1360,616.0,31.17408906882591,2,Aug
+ORD-2023-1402,2023-10-18,2023-10-24,Corporate,Saudi Arabia,Computing,Laptop Pro 15,8,1200,0.2,7680.0,6240,1440.0,18.75,6,Oct
+ORD-2023-1403,2023-05-29,2023-06-01,Consumer,Germany,Computing,"Tablet Air 10""",2,520,0.0,1040.0,680,360.0,34.61538461538461,3,May
+ORD-2023-1404,2023-12-14,2023-12-17,Consumer,United Kingdom,Mobile Devices,Smartphone Ultra,3,950,0.05,2707.5,1800,907.5,33.51800554016621,3,Dec
+ORD-2023-1405,2023-12-29,2024-01-01,Corporate,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.05,209.0,95,114.0,54.54545454545454,3,Dec
+ORD-2023-1406,2023-09-15,2023-09-18,Small Business,Egypt,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.15,187.0,90,97.0,51.87165775401069,3,Sep
+ORD-2023-1407,2023-12-26,2023-12-28,Corporate,Uae,Audio & Accessories,Mechanical Gaming Keyboard,5,110,0.0,550.0,225,325.0,59.09090909090909,2,Dec
+ORD-2023-1408,2023-10-18,2023-10-23,Small Business,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.05,104.5,45,59.5,56.9377990430622,5,Oct
+ORD-2023-1409,2023-09-11,2023-09-12,Corporate,Germany,Computing,"Tablet Air 10""",1,520,0.0,520.0,340,180.0,34.61538461538461,1,Sep
+ORD-2023-1410,2023-01-13,2023-01-15,Small Business,Uae,Audio & Accessories,Noise-Cancelling Headphones,4,220,0.0,880.0,380,500.0,56.81818181818182,2,Jan
+ORD-2023-1411,2023-07-11,2023-07-15,Consumer,Uae,Computing,Laptop Pro 15,1,1200,0.2,960.0,780,180.0,18.75,4,Jul
+ORD-2023-1412,2023-01-02,2023-01-08,Corporate,United Kingdom,Computing,"Tablet Air 10""",1,520,0.0,520.0,340,180.0,34.61538461538461,6,Jan
+ORD-2023-1413,2023-04-21,2023-04-26,Corporate,Egypt,Audio & Accessories,Noise-Cancelling Headphones,5,220,0.0,1100.0,475,625.0,56.81818181818182,5,Apr
+ORD-2023-1414,2023-04-17,2023-04-18,Corporate,Saudi Arabia,Computing,Laptop Pro 15,1,1200,0.05,1140.0,780,360.0,31.57894736842105,1,Apr
+ORD-2023-1415,2023-02-19,2023-02-20,Corporate,Germany,Mobile Devices,Smartwatch Series 5,2,280,0.05,532.0,300,232.0,43.609022556390975,1,Feb
+ORD-2023-1416,2023-12-04,2023-12-07,Consumer,Saudi Arabia,Mobile Devices,Smartphone Ultra,4,950,0.05,3610.0,2400,1210.0,33.51800554016621,3,Dec
+ORD-2023-1417,2023-09-07,2023-09-13,Consumer,United States,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.0,220.0,95,125.0,56.81818181818182,6,Sep
+ORD-2023-1418,2023-10-30,2023-11-02,Consumer,Egypt,Computing,"Tablet Air 10""",3,520,0.0,1560.0,1020,540.0,34.61538461538461,3,Oct
+ORD-2023-1419,2023-08-24,2023-08-27,Corporate,Egypt,Mobile Devices,Smartphone Ultra,2,950,0.1,1710.0,1200,510.0,29.82456140350877,3,Aug
+ORD-2023-1420,2023-01-15,2023-01-16,Corporate,Saudi Arabia,Computing,"Tablet Air 10""",4,520,0.05,1976.0,1360,616.0,31.17408906882591,1,Jan
+ORD-2023-1421,2023-03-08,2023-03-12,Corporate,United Kingdom,Mobile Devices,Smartphone Ultra,5,950,0.0,4750.0,3000,1750.0,36.84210526315789,4,Mar
+ORD-2023-1422,2023-07-12,2023-07-15,Small Business,Egypt,Computing,"Tablet Air 10""",15,520,0.05,7410.0,5100,2310.0,31.17408906882591,3,Jul
+ORD-2023-1423,2023-09-10,2023-09-13,Consumer,Egypt,Audio & Accessories,Mechanical Gaming Keyboard,5,110,0.0,550.0,225,325.0,59.09090909090909,3,Sep
+ORD-2023-1424,2023-04-11,2023-04-13,Consumer,United Kingdom,Displays,"4K UHD Monitor 27""",1,380,0.0,380.0,260,120.0,31.57894736842105,2,Apr
+ORD-2023-1425,2023-11-17,2023-11-20,Small Business,Saudi Arabia,Computing,"Tablet Air 10""",15,520,0.0,7800.0,5100,2700.0,34.61538461538461,3,Nov
+ORD-2023-1426,2023-11-19,2023-11-24,Small Business,Saudi Arabia,Computing,Laptop Pro 15,2,1200,0.3,1680.0,1560,120.0,7.142857142857142,5,Nov
+ORD-2023-1427,2023-01-14,2023-01-15,Corporate,Egypt,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.1,198.0,95,103.0,52.02020202020202,1,Jan
+ORD-2023-1428,2023-02-08,2023-02-10,Small Business,Egypt,Displays,"4K UHD Monitor 27""",4,380,0.0,1520.0,1040,480.0,31.57894736842105,2,Feb
+ORD-2023-1429,2023-08-23,2023-08-27,Consumer,United States,Mobile Devices,Smartwatch Series 5,1,280,0.15,238.0,150,88.0,36.97478991596639,4,Aug
+ORD-2023-1430,2023-08-05,2023-08-08,Consumer,Egypt,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.05,104.5,45,59.5,56.9377990430622,3,Aug
+ORD-2023-1431,2023-11-09,2023-11-11,Small Business,United States,Computing,Laptop Pro 15,2,1200,0.1,2160.0,1560,600.0,27.77777777777778,2,Nov
+ORD-2023-1432,2023-02-05,2023-02-06,Consumer,United States,Mobile Devices,Smartphone Ultra,4,950,0.0,3800.0,2400,1400.0,36.84210526315789,1,Feb
+ORD-2023-1433,2023-02-11,2023-02-13,Consumer,Germany,Computing,Laptop Pro 15,3,1200,0.0,3600.0,2340,1260.0,35.0,2,Feb
+ORD-2023-1434,2023-09-13,2023-09-17,Corporate,Germany,Mobile Devices,Smartwatch Series 5,8,280,0.05,2128.0,1200,928.0,43.609022556390975,4,Sep
+ORD-2023-1435,2023-09-04,2023-09-05,Consumer,Germany,Displays,"4K UHD Monitor 27""",1,380,0.1,342.0,260,82.0,23.976608187134502,1,Sep
+ORD-2023-1436,2023-08-14,2023-08-15,Consumer,United States,Mobile Devices,Smartwatch Series 5,1,280,0.05,266.0,150,116.0,43.609022556390975,1,Aug
+ORD-2023-1437,2023-07-12,2023-07-16,Corporate,Egypt,Displays,"4K UHD Monitor 27""",5,380,0.05,1805.0,1300,505.0,27.977839335180054,4,Jul
+ORD-2023-1438,2023-07-06,2023-07-10,Consumer,Germany,Computing,"Tablet Air 10""",2,520,0.05,988.0,680,308.0,31.17408906882591,4,Jul
+ORD-2023-1439,2023-06-26,2023-06-29,Small Business,United States,Mobile Devices,Smartwatch Series 5,1,280,0.0,280.0,150,130.0,46.42857142857143,3,Jun
+ORD-2023-1440,2023-04-12,2023-04-18,Consumer,Uae,Computing,Laptop Pro 15,4,1200,0.0,4800.0,3120,1680.0,35.0,6,Apr
+ORD-2023-1441,2023-07-18,2023-07-21,Corporate,Egypt,Mobile Devices,Smartwatch Series 5,1,280,0.15,238.0,150,88.0,36.97478991596639,3,Jul
+ORD-2023-1442,2023-01-24,2023-01-25,Small Business,Germany,Computing,"Tablet Air 10""",5,520,0.15,2210.0,1700,510.0,23.076923076923077,1,Jan
+ORD-2023-1443,2023-01-10,2023-01-13,Consumer,Germany,Mobile Devices,Smartwatch Series 5,2,280,0.05,532.0,300,232.0,43.609022556390975,3,Jan
+ORD-2023-1444,2023-09-22,2023-09-24,Consumer,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,4,220,0.1,792.0,380,412.0,52.02020202020202,2,Sep
+ORD-2023-1445,2023-08-31,2023-09-04,Consumer,United States,Audio & Accessories,Mechanical Gaming Keyboard,5,110,0.0,550.0,225,325.0,59.09090909090909,4,Aug
+ORD-2023-1446,2023-02-19,2023-02-21,Consumer,Saudi Arabia,Displays,"4K UHD Monitor 27""",1,380,0.0,380.0,260,120.0,31.57894736842105,2,Feb
+ORD-2023-1447,2023-09-20,2023-09-23,Consumer,Egypt,Computing,"Tablet Air 10""",3,520,0.0,1560.0,1020,540.0,34.61538461538461,3,Sep
+ORD-2023-1448,2023-10-30,2023-11-01,Consumer,Uae,Mobile Devices,Smartphone Ultra,1,950,0.05,902.5,600,302.5,33.51800554016621,2,Oct
+ORD-2023-1449,2023-09-01,2023-09-03,Corporate,Saudi Arabia,Displays,"4K UHD Monitor 27""",2,380,0.0,760.0,520,240.0,31.57894736842105,2,Sep
+ORD-2023-1450,2023-05-21,2023-05-22,Corporate,Uae,Mobile Devices,Smartwatch Series 5,4,280,0.05,1064.0,600,464.0,43.609022556390975,1,May
+ORD-2023-1451,2023-07-07,2023-07-09,Corporate,Egypt,Audio & Accessories,Mechanical Gaming Keyboard,10,110,0.0,1100.0,450,650.0,59.09090909090909,2,Jul
+ORD-2023-1452,2023-11-14,2023-11-16,Small Business,Egypt,Audio & Accessories,Mechanical Gaming Keyboard,4,110,0.05,418.0,180,238.0,56.9377990430622,2,Nov
+ORD-2023-1453,2023-05-09,2023-05-11,Corporate,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.0,110.0,45,65.0,59.09090909090909,2,May
+ORD-2023-1454,2023-08-17,2023-08-20,Corporate,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.05,104.5,45,59.5,56.9377990430622,3,Aug
+ORD-2023-1455,2023-09-19,2023-09-21,Consumer,Germany,Computing,"Tablet Air 10""",2,520,0.0,1040.0,680,360.0,34.61538461538461,2,Sep
+ORD-2023-1456,2023-05-05,2023-05-07,Small Business,Uae,Computing,Laptop Pro 15,3,1200,0.05,3420.0,2340,1080.0,31.57894736842105,2,May
+ORD-2023-1457,2023-08-29,2023-08-31,Corporate,Uae,Computing,Laptop Pro 15,2,1200,0.05,2280.0,1560,720.0,31.57894736842105,2,Aug
+ORD-2023-1458,2023-12-14,2023-12-16,Corporate,Egypt,Computing,Laptop Pro 15,1,1200,0.1,1080.0,780,300.0,27.77777777777778,2,Dec
+ORD-2023-1459,2023-08-21,2023-08-23,Small Business,Egypt,Mobile Devices,Smartwatch Series 5,4,280,0.1,1008.0,600,408.0,40.476190476190474,2,Aug
+ORD-2023-1460,2023-10-14,2023-10-20,Small Business,United States,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.1,198.0,95,103.0,52.02020202020202,6,Oct
+ORD-2023-1461,2023-04-07,2023-04-13,Consumer,Egypt,Computing,"Tablet Air 10""",4,520,0.0,2080.0,1360,720.0,34.61538461538461,6,Apr
+ORD-2023-1462,2023-09-14,2023-09-16,Corporate,Germany,Audio & Accessories,Noise-Cancelling Headphones,2,220,0.0,440.0,190,250.0,56.81818181818182,2,Sep
+ORD-2023-1463,2023-10-31,2023-11-07,Corporate,Uae,Mobile Devices,Smartphone Ultra,1,950,0.1,855.0,600,255.0,29.82456140350877,7,Oct
+ORD-2023-1464,2023-02-24,2023-02-25,Consumer,Egypt,Computing,"Tablet Air 10""",5,520,0.15,2210.0,1700,510.0,23.076923076923077,1,Feb
+ORD-2023-1465,2023-06-01,2023-06-05,Corporate,Uae,Mobile Devices,Smartphone Ultra,4,950,0.0,3800.0,2400,1400.0,36.84210526315789,4,Jun
+ORD-2023-1466,2023-06-03,2023-06-05,Consumer,Egypt,Computing,"Tablet Air 10""",2,520,0.05,988.0,680,308.0,31.17408906882591,2,Jun
+ORD-2023-1467,2023-08-10,2023-08-13,Consumer,Egypt,Mobile Devices,Smartwatch Series 5,1,280,0.05,266.0,150,116.0,43.609022556390975,3,Aug
+ORD-2023-1468,2023-07-14,2023-07-21,Consumer,Egypt,Computing,"Tablet Air 10""",1,520,0.1,468.0,340,128.0,27.350427350427353,7,Jul
+ORD-2023-1469,2023-04-15,2023-04-17,Consumer,Uae,Mobile Devices,Smartwatch Series 5,5,280,0.0,1400.0,750,650.0,46.42857142857143,2,Apr
+ORD-2023-1470,2023-10-27,2023-10-29,Corporate,Germany,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.05,209.0,90,119.0,56.9377990430622,2,Oct
+ORD-2023-1471,2023-02-04,2023-02-06,Corporate,Germany,Displays,"4K UHD Monitor 27""",1,380,0.0,380.0,260,120.0,31.57894736842105,2,Feb
+ORD-2023-1472,2023-03-25,2023-03-28,Consumer,Saudi Arabia,Computing,Laptop Pro 15,3,1200,0.1,3240.0,2340,900.0,27.77777777777778,3,Mar
+ORD-2023-1473,2023-12-11,2023-12-16,Consumer,United States,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.05,209.0,95,114.0,54.54545454545454,5,Dec
+ORD-2023-1474,2023-10-06,2023-10-12,Consumer,Saudi Arabia,Computing,Laptop Pro 15,1,1200,0.1,1080.0,780,300.0,27.77777777777778,6,Oct
+ORD-2023-1475,2023-06-10,2023-06-13,Corporate,Uae,Mobile Devices,Smartwatch Series 5,1,280,0.0,280.0,150,130.0,46.42857142857143,3,Jun
+ORD-2023-1476,2023-12-27,2023-12-31,Corporate,United Kingdom,Computing,"Tablet Air 10""",2,520,0.0,1040.0,680,360.0,34.61538461538461,4,Dec
+ORD-2023-1477,2023-06-13,2023-06-16,Corporate,Egypt,Mobile Devices,Smartphone Ultra,3,950,0.1,2565.0,1800,765.0,29.82456140350877,3,Jun
+ORD-2023-1478,2023-09-27,2023-09-30,Corporate,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,8,110,0.05,836.0,360,476.0,56.9377990430622,3,Sep
+ORD-2023-1479,2023-11-08,2023-11-11,Consumer,United Kingdom,Computing,Laptop Pro 15,1,1200,0.05,1140.0,780,360.0,31.57894736842105,3,Nov
+ORD-2023-1480,2023-03-01,2023-03-04,Consumer,Egypt,Audio & Accessories,Noise-Cancelling Headphones,3,220,0.05,627.0,285,342.0,54.54545454545454,3,Mar
+ORD-2023-1481,2023-02-21,2023-02-24,Consumer,Egypt,Computing,"Tablet Air 10""",15,520,0.0,7800.0,5100,2700.0,34.61538461538461,3,Feb
+ORD-2023-1482,2023-05-25,2023-05-28,Small Business,Uae,Displays,"4K UHD Monitor 27""",1,380,0.0,380.0,260,120.0,31.57894736842105,3,May
+ORD-2023-1483,2023-03-11,2023-03-16,Corporate,United States,Displays,"4K UHD Monitor 27""",5,380,0.0,1900.0,1300,600.0,31.57894736842105,5,Mar
+ORD-2023-1484,2023-12-18,2023-12-19,Corporate,Egypt,Audio & Accessories,Noise-Cancelling Headphones,5,220,0.0,1100.0,475,625.0,56.81818181818182,1,Dec
+ORD-2023-1485,2023-05-11,2023-05-12,Small Business,United Kingdom,Displays,"4K UHD Monitor 27""",5,380,0.0,1900.0,1300,600.0,31.57894736842105,1,May
+ORD-2023-1486,2023-05-10,2023-05-13,Consumer,Uae,Mobile Devices,Smartwatch Series 5,1,280,0.0,280.0,150,130.0,46.42857142857143,3,May
+ORD-2023-1487,2023-05-19,2023-05-20,Corporate,United States,Mobile Devices,Smartphone Ultra,1,950,0.0,950.0,600,350.0,36.84210526315789,1,May
+ORD-2023-1488,2023-10-18,2023-10-19,Consumer,Saudi Arabia,Mobile Devices,Smartphone Ultra,15,950,0.1,12825.0,9000,3825.0,29.82456140350877,1,Oct
+ORD-2023-1489,2023-03-18,2023-03-21,Small Business,United States,Displays,"4K UHD Monitor 27""",1,380,0.0,380.0,260,120.0,31.57894736842105,3,Mar
+ORD-2023-1490,2023-12-31,2024-01-07,Corporate,Uae,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.0,110.0,45,65.0,59.09090909090909,7,Dec
+ORD-2023-1491,2023-12-05,2023-12-07,Small Business,United States,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.0,220.0,90,130.0,59.09090909090909,2,Dec
+ORD-2023-1492,2023-07-04,2023-07-06,Corporate,Germany,Audio & Accessories,Noise-Cancelling Headphones,4,220,0.0,880.0,380,500.0,56.81818181818182,2,Jul
+ORD-2023-1493,2023-04-18,2023-04-21,Corporate,United Kingdom,Mobile Devices,Smartwatch Series 5,4,280,0.1,1008.0,600,408.0,40.476190476190474,3,Apr
+ORD-2023-1494,2023-11-06,2023-11-07,Consumer,United States,Computing,Laptop Pro 15,2,1200,0.0,2400.0,1560,840.0,35.0,1,Nov
+ORD-2023-1495,2023-10-04,2023-10-07,Small Business,Saudi Arabia,Mobile Devices,Smartphone Ultra,2,950,0.1,1710.0,1200,510.0,29.82456140350877,3,Oct
+ORD-2023-1496,2023-07-18,2023-07-22,Corporate,Uae,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.0,220.0,95,125.0,56.81818181818182,4,Jul
+ORD-2023-1497,2023-10-04,2023-10-08,Consumer,Egypt,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.3,77.0,45,32.0,41.55844155844156,4,Oct
+ORD-2023-1498,2023-01-23,2023-01-26,Consumer,United Kingdom,Mobile Devices,Smartphone Ultra,3,950,0.05,2707.5,1800,907.5,33.51800554016621,3,Jan
+ORD-2023-1499,2023-09-24,2023-10-01,Corporate,Egypt,Audio & Accessories,Mechanical Gaming Keyboard,3,110,0.05,313.5,135,178.5,56.9377990430622,7,Sep
+ORD-2023-1500,2023-10-25,2023-10-31,Corporate,Saudi Arabia,Mobile Devices,Smartphone Ultra,1,950,0.05,902.5,600,302.5,33.51800554016621,6,Oct
+ORD-2023-1501,2023-02-28,2023-03-04,Corporate,Egypt,Mobile Devices,Smartphone Ultra,3,950,0.05,2707.5,1800,907.5,33.51800554016621,4,Feb
+ORD-2023-1502,2023-10-14,2023-10-16,Small Business,Egypt,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.0,110.0,45,65.0,59.09090909090909,2,Oct
+ORD-2023-1503,2023-08-06,2023-08-10,Consumer,United Kingdom,Displays,"4K UHD Monitor 27""",4,380,0.0,1520.0,1040,480.0,31.57894736842105,4,Aug
+ORD-2023-1504,2023-09-08,2023-09-09,Consumer,Egypt,Computing,"Tablet Air 10""",3,520,0.1,1404.0,1020,384.0,27.350427350427353,1,Sep
+ORD-2023-1505,2023-01-09,2023-01-12,Small Business,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,3,110,0.05,313.5,135,178.5,56.9377990430622,3,Jan
+ORD-2023-1506,2023-05-27,2023-06-02,Consumer,Saudi Arabia,Computing,Laptop Pro 15,1,1200,0.0,1200.0,780,420.0,35.0,6,May
+ORD-2023-1507,2023-03-27,2023-03-31,Consumer,Saudi Arabia,Displays,"4K UHD Monitor 27""",2,380,0.05,722.0,520,202.0,27.977839335180054,4,Mar
+ORD-2023-1508,2023-07-11,2023-07-14,Consumer,Germany,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.0,220.0,90,130.0,59.09090909090909,3,Jul
+ORD-2023-1509,2023-01-13,2023-01-17,Consumer,Egypt,Mobile Devices,Smartwatch Series 5,1,280,0.05,266.0,150,116.0,43.609022556390975,4,Jan
+ORD-2023-1510,2023-05-23,2023-05-26,Corporate,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.0,220.0,90,130.0,59.09090909090909,3,May
+ORD-2023-1511,2023-03-20,2023-03-21,Corporate,Uae,Mobile Devices,Smartwatch Series 5,2,280,0.3,392.0,300,92.0,23.46938775510204,1,Mar
+ORD-2023-1512,2023-05-05,2023-05-08,Corporate,Uae,Mobile Devices,Smartwatch Series 5,3,280,0.1,756.0,450,306.0,40.476190476190474,3,May
+ORD-2023-1513,2023-08-30,2023-09-06,Corporate,Egypt,Computing,"Tablet Air 10""",3,520,0.05,1482.0,1020,462.0,31.17408906882591,7,Aug
+ORD-2023-1514,2023-10-01,2023-10-04,Small Business,United States,Mobile Devices,Smartwatch Series 5,10,280,0.05,2660.0,1500,1160.0,43.609022556390975,3,Oct
+ORD-2023-1515,2023-01-04,2023-01-05,Corporate,Uae,Computing,"Tablet Air 10""",1,520,0.0,520.0,340,180.0,34.61538461538461,1,Jan
+ORD-2023-1516,2023-06-16,2023-06-18,Consumer,Germany,Audio & Accessories,Noise-Cancelling Headphones,2,220,0.0,440.0,190,250.0,56.81818181818182,2,Jun
+ORD-2023-1517,2023-10-31,2023-11-02,Consumer,Uae,Computing,"Tablet Air 10""",8,520,0.05,3952.0,2720,1232.0,31.17408906882591,2,Oct
+ORD-2023-1518,2023-09-03,2023-09-04,Small Business,Uae,Computing,"Tablet Air 10""",10,520,0.0,5200.0,3400,1800.0,34.61538461538461,1,Sep
+ORD-2023-1519,2023-01-20,2023-01-21,Consumer,Saudi Arabia,Mobile Devices,Smartphone Ultra,3,950,0.1,2565.0,1800,765.0,29.82456140350877,1,Jan
+ORD-2023-1520,2023-06-30,2023-07-02,Consumer,United States,Audio & Accessories,Noise-Cancelling Headphones,2,220,0.0,440.0,190,250.0,56.81818181818182,2,Jun
+ORD-2023-1521,2023-09-23,2023-09-27,Corporate,United Kingdom,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.15,187.0,95,92.0,49.19786096256685,4,Sep
+ORD-2023-1522,2023-10-22,2023-10-27,Consumer,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,5,220,0.0,1100.0,475,625.0,56.81818181818182,5,Oct
+ORD-2023-1523,2023-03-14,2023-03-16,Corporate,United Kingdom,Displays,"4K UHD Monitor 27""",4,380,0.2,1216.0,1040,176.0,14.473684210526317,2,Mar
+ORD-2023-1524,2023-12-18,2023-12-21,Corporate,Uae,Mobile Devices,Smartphone Ultra,1,950,0.0,950.0,600,350.0,36.84210526315789,3,Dec
+ORD-2023-1525,2023-10-15,2023-10-18,Corporate,United States,Mobile Devices,Smartwatch Series 5,3,280,0.1,756.0,450,306.0,40.476190476190474,3,Oct
+ORD-2023-1526,2023-04-05,2023-04-07,Small Business,Egypt,Mobile Devices,Smartphone Ultra,2,950,0.0,1900.0,1200,700.0,36.84210526315789,2,Apr
+ORD-2023-1527,2023-03-04,2023-03-05,Corporate,Egypt,Mobile Devices,Smartphone Ultra,1,950,0.0,950.0,600,350.0,36.84210526315789,1,Mar
+ORD-2023-1528,2023-12-14,2023-12-17,Corporate,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.0,110.0,45,65.0,59.09090909090909,3,Dec
+ORD-2023-1529,2023-10-20,2023-10-23,Corporate,United States,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.0,220.0,90,130.0,59.09090909090909,3,Oct
+ORD-2023-1530,2023-03-10,2023-03-14,Consumer,Egypt,Mobile Devices,Smartphone Ultra,8,950,0.0,7600.0,4800,2800.0,36.84210526315789,4,Mar
+ORD-2023-1531,2023-01-14,2023-01-18,Consumer,Germany,Mobile Devices,Smartwatch Series 5,2,280,0.2,448.0,300,148.0,33.035714285714285,4,Jan
+ORD-2023-1532,2023-12-14,2023-12-16,Consumer,Uae,Mobile Devices,Smartphone Ultra,5,950,0.05,4512.5,3000,1512.5,33.51800554016621,2,Dec
+ORD-2023-1533,2023-05-30,2023-06-04,Consumer,Egypt,Mobile Devices,Smartphone Ultra,10,950,0.1,8550.0,6000,2550.0,29.82456140350877,5,May
+ORD-2023-1534,2023-02-01,2023-02-02,Consumer,United Kingdom,Displays,"4K UHD Monitor 27""",5,380,0.05,1805.0,1300,505.0,27.977839335180054,1,Feb
+ORD-2023-1535,2023-09-02,2023-09-06,Small Business,Saudi Arabia,Mobile Devices,Smartphone Ultra,4,950,0.05,3610.0,2400,1210.0,33.51800554016621,4,Sep
+ORD-2023-1536,2023-11-19,2023-11-20,Corporate,United Kingdom,Mobile Devices,Smartphone Ultra,4,950,0.15,3230.0,2400,830.0,25.696594427244584,1,Nov
+ORD-2023-1537,2023-11-10,2023-11-15,Corporate,Saudi Arabia,Computing,"Tablet Air 10""",1,520,0.05,494.0,340,154.0,31.17408906882591,5,Nov
+ORD-2023-1538,2023-09-01,2023-09-02,Consumer,Uae,Displays,"4K UHD Monitor 27""",1,380,0.0,380.0,260,120.0,31.57894736842105,1,Sep
+ORD-2023-1539,2023-01-13,2023-01-17,Consumer,Saudi Arabia,Mobile Devices,Smartwatch Series 5,3,280,0.0,840.0,450,390.0,46.42857142857143,4,Jan
+ORD-2023-1540,2023-09-08,2023-09-09,Consumer,United States,Computing,Laptop Pro 15,4,1200,0.05,4560.0,3120,1440.0,31.57894736842105,1,Sep
+ORD-2023-1541,2023-02-03,2023-02-05,Consumer,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,3,220,0.1,594.0,285,309.0,52.02020202020202,2,Feb
+ORD-2023-1542,2023-09-27,2023-09-29,Consumer,Egypt,Computing,Laptop Pro 15,1,1200,0.0,1200.0,780,420.0,35.0,2,Sep
+ORD-2023-1543,2023-07-29,2023-08-01,Corporate,United Kingdom,Computing,Laptop Pro 15,15,1200,0.1,16200.0,11700,4500.0,27.77777777777778,3,Jul
+ORD-2023-1544,2023-01-06,2023-01-09,Corporate,Saudi Arabia,Displays,"4K UHD Monitor 27""",5,380,0.05,1805.0,1300,505.0,27.977839335180054,3,Jan
+ORD-2023-1545,2023-04-30,2023-05-07,Consumer,Uae,Mobile Devices,Smartwatch Series 5,8,280,0.0,2240.0,1200,1040.0,46.42857142857143,7,Apr
+ORD-2023-1546,2023-11-24,2023-11-26,Corporate,Germany,Computing,Laptop Pro 15,3,1200,0.0,3600.0,2340,1260.0,35.0,2,Nov
+ORD-2023-1547,2023-05-28,2023-06-04,Consumer,United Kingdom,Mobile Devices,Smartphone Ultra,3,950,0.0,2850.0,1800,1050.0,36.84210526315789,7,May
+ORD-2023-1548,2023-08-23,2023-08-25,Corporate,Saudi Arabia,Displays,"4K UHD Monitor 27""",2,380,0.05,722.0,520,202.0,27.977839335180054,2,Aug
+ORD-2023-1549,2023-04-11,2023-04-13,Consumer,Germany,Computing,"Tablet Air 10""",1,520,0.1,468.0,340,128.0,27.350427350427353,2,Apr
+ORD-2023-1550,2023-02-16,2023-02-19,Consumer,Egypt,Displays,"4K UHD Monitor 27""",3,380,0.0,1140.0,780,360.0,31.57894736842105,3,Feb
+ORD-2023-1551,2023-03-22,2023-03-25,Corporate,Saudi Arabia,Displays,"4K UHD Monitor 27""",5,380,0.0,1900.0,1300,600.0,31.57894736842105,3,Mar
+ORD-2023-1552,2023-05-27,2023-06-01,Small Business,Uae,Computing,Laptop Pro 15,2,1200,0.0,2400.0,1560,840.0,35.0,5,May
+ORD-2023-1553,2023-02-01,2023-02-06,Consumer,Uae,Audio & Accessories,Noise-Cancelling Headphones,2,220,0.1,396.0,190,206.0,52.02020202020202,5,Feb
+ORD-2023-1554,2023-02-14,2023-02-16,Small Business,Germany,Computing,"Tablet Air 10""",1,520,0.05,494.0,340,154.0,31.17408906882591,2,Feb
+ORD-2023-1555,2023-06-04,2023-06-06,Small Business,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.15,187.0,95,92.0,49.19786096256685,2,Jun
+ORD-2023-1556,2023-11-25,2023-11-27,Consumer,Egypt,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.0,220.0,95,125.0,56.81818181818182,2,Nov
+ORD-2023-1557,2023-12-08,2023-12-12,Consumer,United Kingdom,Computing,"Tablet Air 10""",1,520,0.15,442.0,340,102.0,23.076923076923077,4,Dec
+ORD-2023-1558,2023-04-13,2023-04-16,Consumer,Saudi Arabia,Displays,"4K UHD Monitor 27""",1,380,0.1,342.0,260,82.0,23.976608187134502,3,Apr
+ORD-2023-1559,2023-09-11,2023-09-12,Consumer,United Kingdom,Mobile Devices,Smartphone Ultra,1,950,0.0,950.0,600,350.0,36.84210526315789,1,Sep
+ORD-2023-1560,2023-09-01,2023-09-04,Consumer,Uae,Mobile Devices,Smartphone Ultra,4,950,0.1,3420.0,2400,1020.0,29.82456140350877,3,Sep
+ORD-2023-1561,2023-02-23,2023-02-27,Corporate,Uae,Audio & Accessories,Mechanical Gaming Keyboard,8,110,0.1,792.0,360,432.0,54.54545454545454,4,Feb
+ORD-2023-1562,2023-08-26,2023-08-27,Consumer,Egypt,Computing,"Tablet Air 10""",1,520,0.1,468.0,340,128.0,27.350427350427353,1,Aug
+ORD-2023-1563,2023-06-13,2023-06-16,Consumer,Uae,Mobile Devices,Smartphone Ultra,1,950,0.05,902.5,600,302.5,33.51800554016621,3,Jun
+ORD-2023-1564,2023-08-17,2023-08-21,Small Business,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.1,198.0,95,103.0,52.02020202020202,4,Aug
+ORD-2023-1565,2023-10-19,2023-10-22,Small Business,United Kingdom,Computing,Laptop Pro 15,1,1200,0.0,1200.0,780,420.0,35.0,3,Oct
+ORD-2023-1566,2023-02-06,2023-02-08,Consumer,Germany,Computing,"Tablet Air 10""",10,520,0.0,5200.0,3400,1800.0,34.61538461538461,2,Feb
+ORD-2023-1567,2023-04-20,2023-04-25,Consumer,Germany,Computing,Laptop Pro 15,2,1200,0.05,2280.0,1560,720.0,31.57894736842105,5,Apr
+ORD-2023-1568,2023-04-26,2023-04-30,Corporate,United States,Computing,Laptop Pro 15,1,1200,0.0,1200.0,780,420.0,35.0,4,Apr
+ORD-2023-1569,2023-03-09,2023-03-11,Consumer,United Kingdom,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.1,198.0,95,103.0,52.02020202020202,2,Mar
+ORD-2023-1570,2023-12-11,2023-12-14,Consumer,Egypt,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.0,220.0,95,125.0,56.81818181818182,3,Dec
+ORD-2023-1571,2023-03-23,2023-03-24,Corporate,Germany,Computing,"Tablet Air 10""",3,520,0.05,1482.0,1020,462.0,31.17408906882591,1,Mar
+ORD-2023-1572,2023-12-08,2023-12-10,Consumer,Egypt,Audio & Accessories,Noise-Cancelling Headphones,3,220,0.2,528.0,285,243.0,46.02272727272727,2,Dec
+ORD-2023-1573,2023-08-28,2023-08-31,Small Business,Uae,Computing,Laptop Pro 15,1,1200,0.0,1200.0,780,420.0,35.0,3,Aug
+ORD-2023-1574,2023-08-31,2023-09-01,Consumer,Uae,Computing,Laptop Pro 15,4,1200,0.0,4800.0,3120,1680.0,35.0,1,Aug
+ORD-2023-1575,2023-03-25,2023-03-26,Consumer,Uae,Computing,"Tablet Air 10""",1,520,0.2,416.0,340,76.0,18.269230769230766,1,Mar
+ORD-2023-1576,2023-07-08,2023-07-11,Consumer,Saudi Arabia,Computing,Laptop Pro 15,5,1200,0.05,5700.0,3900,1800.0,31.57894736842105,3,Jul
+ORD-2023-1577,2023-04-03,2023-04-06,Small Business,Egypt,Computing,Laptop Pro 15,1,1200,0.0,1200.0,780,420.0,35.0,3,Apr
+ORD-2023-1578,2023-09-13,2023-09-14,Small Business,Germany,Displays,"4K UHD Monitor 27""",8,380,0.05,2888.0,2080,808.0,27.977839335180054,1,Sep
+ORD-2023-1579,2023-12-08,2023-12-09,Corporate,Germany,Mobile Devices,Smartphone Ultra,2,950,0.0,1900.0,1200,700.0,36.84210526315789,1,Dec
+ORD-2023-1580,2023-11-23,2023-11-27,Consumer,Uae,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.05,209.0,90,119.0,56.9377990430622,4,Nov
+ORD-2023-1581,2023-04-17,2023-04-23,Consumer,Uae,Displays,"4K UHD Monitor 27""",8,380,0.05,2888.0,2080,808.0,27.977839335180054,6,Apr
+ORD-2023-1582,2023-01-14,2023-01-16,Consumer,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.1,198.0,95,103.0,52.02020202020202,2,Jan
+ORD-2023-1583,2023-04-11,2023-04-13,Small Business,Germany,Mobile Devices,Smartwatch Series 5,10,280,0.2,2240.0,1500,740.0,33.035714285714285,2,Apr
+ORD-2023-1584,2023-11-02,2023-11-05,Consumer,Germany,Audio & Accessories,Mechanical Gaming Keyboard,3,110,0.3,231.0,135,96.0,41.55844155844156,3,Nov
+ORD-2023-1585,2023-04-19,2023-04-20,Consumer,United States,Mobile Devices,Smartphone Ultra,4,950,0.05,3610.0,2400,1210.0,33.51800554016621,1,Apr
+ORD-2023-1586,2023-04-01,2023-04-03,Consumer,Egypt,Audio & Accessories,Noise-Cancelling Headphones,2,220,0.1,396.0,190,206.0,52.02020202020202,2,Apr
+ORD-2023-1587,2023-10-22,2023-10-26,Consumer,Egypt,Displays,"4K UHD Monitor 27""",1,380,0.15,323.0,260,63.0,19.5046439628483,4,Oct
+ORD-2023-1588,2023-02-24,2023-02-26,Consumer,Uae,Mobile Devices,Smartphone Ultra,2,950,0.0,1900.0,1200,700.0,36.84210526315789,2,Feb
+ORD-2023-1589,2023-08-21,2023-08-27,Small Business,Uae,Mobile Devices,Smartwatch Series 5,5,280,0.3,980.0,750,230.0,23.46938775510204,6,Aug
+ORD-2023-1590,2023-08-30,2023-09-01,Small Business,Saudi Arabia,Computing,Laptop Pro 15,2,1200,0.0,2400.0,1560,840.0,35.0,2,Aug
+ORD-2023-1591,2023-10-08,2023-10-10,Consumer,Egypt,Computing,"Tablet Air 10""",1,520,0.0,520.0,340,180.0,34.61538461538461,2,Oct
+ORD-2023-1592,2023-11-25,2023-11-27,Consumer,Egypt,Mobile Devices,Smartwatch Series 5,2,280,0.15,476.0,300,176.0,36.97478991596639,2,Nov
+ORD-2023-1593,2023-10-07,2023-10-08,Consumer,Saudi Arabia,Mobile Devices,Smartwatch Series 5,1,280,0.1,252.0,150,102.0,40.476190476190474,1,Oct
+ORD-2023-1594,2023-03-17,2023-03-19,Small Business,Saudi Arabia,Computing,"Tablet Air 10""",1,520,0.05,494.0,340,154.0,31.17408906882591,2,Mar
+ORD-2023-1595,2023-10-23,2023-10-26,Consumer,United States,Computing,"Tablet Air 10""",2,520,0.0,1040.0,680,360.0,34.61538461538461,3,Oct
+ORD-2023-1596,2023-11-27,2023-11-29,Consumer,Saudi Arabia,Audio & Accessories,Mechanical Gaming Keyboard,3,110,0.0,330.0,135,195.0,59.09090909090909,2,Nov
+ORD-2023-1597,2023-10-20,2023-10-23,Consumer,United Kingdom,Computing,Laptop Pro 15,3,1200,0.0,3600.0,2340,1260.0,35.0,3,Oct
+ORD-2023-1598,2023-09-02,2023-09-03,Consumer,Egypt,Mobile Devices,Smartphone Ultra,10,950,0.2,7600.0,6000,1600.0,21.052631578947366,1,Sep
+ORD-2023-1599,2023-06-24,2023-06-25,Small Business,United Kingdom,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.0,110.0,45,65.0,59.09090909090909,1,Jun
+ORD-2023-1600,2023-12-10,2023-12-13,Consumer,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,4,220,0.0,880.0,380,500.0,56.81818181818182,3,Dec
+ORD-2023-1601,2023-05-15,2023-05-18,Corporate,Egypt,Audio & Accessories,Noise-Cancelling Headphones,10,220,0.3,1540.0,950,590.0,38.311688311688314,3,May
+ORD-2023-1602,2023-08-27,2023-08-31,Small Business,United Kingdom,Displays,"4K UHD Monitor 27""",2,380,0.0,760.0,520,240.0,31.57894736842105,4,Aug
+ORD-2023-1603,2023-03-17,2023-03-19,Consumer,United States,Audio & Accessories,Mechanical Gaming Keyboard,15,110,0.0,1650.0,675,975.0,59.09090909090909,2,Mar
+ORD-2023-1604,2023-05-17,2023-05-18,Consumer,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,5,220,0.0,1100.0,475,625.0,56.81818181818182,1,May
+ORD-2023-1605,2023-01-04,2023-01-08,Consumer,Uae,Audio & Accessories,Mechanical Gaming Keyboard,3,110,0.0,330.0,135,195.0,59.09090909090909,4,Jan
+ORD-2023-1606,2023-01-31,2023-02-03,Corporate,Egypt,Computing,Laptop Pro 15,1,1200,0.0,1200.0,780,420.0,35.0,3,Jan
+ORD-2023-1607,2023-01-01,2023-01-04,Corporate,Saudi Arabia,Computing,"Tablet Air 10""",5,520,0.05,2470.0,1700,770.0,31.17408906882591,3,Jan
+ORD-2023-1608,2023-06-29,2023-07-01,Small Business,Uae,Mobile Devices,Smartwatch Series 5,2,280,0.0,560.0,300,260.0,46.42857142857143,2,Jun
+ORD-2023-1609,2023-03-11,2023-03-13,Consumer,Egypt,Displays,"4K UHD Monitor 27""",3,380,0.05,1083.0,780,303.0,27.977839335180054,2,Mar
+ORD-2023-1610,2023-09-02,2023-09-05,Consumer,Egypt,Displays,"4K UHD Monitor 27""",4,380,0.1,1368.0,1040,328.0,23.976608187134502,3,Sep
+ORD-2023-1611,2023-06-22,2023-06-25,Consumer,United States,Mobile Devices,Smartwatch Series 5,1,280,0.0,280.0,150,130.0,46.42857142857143,3,Jun
+ORD-2023-1612,2023-03-28,2023-03-30,Consumer,Uae,Computing,"Tablet Air 10""",1,520,0.1,468.0,340,128.0,27.350427350427353,2,Mar
+ORD-2023-1613,2023-11-22,2023-11-24,Small Business,Uae,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.05,104.5,45,59.5,56.9377990430622,2,Nov
+ORD-2023-1614,2023-12-07,2023-12-10,Small Business,United States,Computing,Laptop Pro 15,1,1200,0.0,1200.0,780,420.0,35.0,3,Dec
+ORD-2023-1615,2023-07-27,2023-08-02,Corporate,Uae,Displays,"4K UHD Monitor 27""",1,380,0.1,342.0,260,82.0,23.976608187134502,6,Jul
+ORD-2023-1616,2023-09-06,2023-09-10,Consumer,Uae,Computing,Laptop Pro 15,3,1200,0.05,3420.0,2340,1080.0,31.57894736842105,4,Sep
+ORD-2023-1617,2023-03-30,2023-04-02,Corporate,United Kingdom,Computing,"Tablet Air 10""",2,520,0.15,884.0,680,204.0,23.076923076923077,3,Mar
+ORD-2023-1618,2023-09-11,2023-09-13,Corporate,Saudi Arabia,Mobile Devices,Smartphone Ultra,10,950,0.05,9025.0,6000,3025.0,33.51800554016621,2,Sep
+ORD-2023-1619,2023-11-03,2023-11-05,Corporate,Uae,Displays,"4K UHD Monitor 27""",2,380,0.0,760.0,520,240.0,31.57894736842105,2,Nov
+ORD-2023-1620,2023-03-28,2023-04-01,Consumer,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.15,187.0,95,92.0,49.19786096256685,4,Mar
+ORD-2023-1621,2023-12-04,2023-12-08,Consumer,Egypt,Displays,"4K UHD Monitor 27""",1,380,0.1,342.0,260,82.0,23.976608187134502,4,Dec
+ORD-2023-1622,2023-06-21,2023-06-23,Consumer,Uae,Audio & Accessories,Mechanical Gaming Keyboard,2,110,0.05,209.0,90,119.0,56.9377990430622,2,Jun
+ORD-2023-1623,2023-09-29,2023-10-02,Corporate,United States,Displays,"4K UHD Monitor 27""",1,380,0.15,323.0,260,63.0,19.5046439628483,3,Sep
+ORD-2023-1624,2023-10-24,2023-10-25,Small Business,Egypt,Displays,"4K UHD Monitor 27""",2,380,0.05,722.0,520,202.0,27.977839335180054,1,Oct
+ORD-2023-1625,2023-08-17,2023-08-19,Consumer,United States,Displays,"4K UHD Monitor 27""",2,380,0.0,760.0,520,240.0,31.57894736842105,2,Aug
+ORD-2023-1626,2023-11-28,2023-12-05,Small Business,Egypt,Displays,"4K UHD Monitor 27""",2,380,0.2,608.0,520,88.0,14.473684210526317,7,Nov
+ORD-2023-1627,2023-04-17,2023-04-20,Small Business,Egypt,Mobile Devices,Smartwatch Series 5,1,280,0.0,280.0,150,130.0,46.42857142857143,3,Apr
+ORD-2023-1628,2023-03-17,2023-03-22,Corporate,Egypt,Computing,Laptop Pro 15,1,1200,0.05,1140.0,780,360.0,31.57894736842105,5,Mar
+ORD-2023-1629,2023-12-06,2023-12-07,Corporate,Egypt,Audio & Accessories,Mechanical Gaming Keyboard,1,110,0.0,110.0,45,65.0,59.09090909090909,1,Dec
+ORD-2023-1630,2023-12-18,2023-12-20,Consumer,United Kingdom,Mobile Devices,Smartwatch Series 5,3,280,0.0,840.0,450,390.0,46.42857142857143,2,Dec
+ORD-2023-1631,2023-01-22,2023-01-24,Consumer,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,4,220,0.05,836.0,380,456.0,54.54545454545454,2,Jan
+ORD-2023-1632,2023-10-09,2023-10-11,Corporate,Egypt,Computing,Laptop Pro 15,1,1200,0.15,1020.0,780,240.0,23.52941176470588,2,Oct
+ORD-2023-1633,2023-10-10,2023-10-12,Corporate,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,4,220,0.15,748.0,380,368.0,49.19786096256685,2,Oct
+ORD-2023-1634,2023-09-18,2023-09-22,Corporate,United Kingdom,Computing,Laptop Pro 15,5,1200,0.1,5400.0,3900,1500.0,27.77777777777778,4,Sep
+ORD-2023-1635,2023-05-02,2023-05-03,Consumer,Germany,Computing,Laptop Pro 15,1,1200,0.0,1200.0,780,420.0,35.0,1,May
+ORD-2023-1636,2023-09-30,2023-10-03,Consumer,Saudi Arabia,Displays,"4K UHD Monitor 27""",1,380,0.0,380.0,260,120.0,31.57894736842105,3,Sep
+ORD-2023-1637,2023-01-20,2023-01-24,Consumer,Uae,Audio & Accessories,Noise-Cancelling Headphones,3,220,0.0,660.0,285,375.0,56.81818181818182,4,Jan
+ORD-2023-1638,2023-06-24,2023-06-30,Consumer,Saudi Arabia,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.15,187.0,95,92.0,49.19786096256685,6,Jun
+ORD-2023-1639,2023-08-15,2023-08-17,Corporate,Egypt,Mobile Devices,Smartwatch Series 5,1,280,0.1,252.0,150,102.0,40.476190476190474,2,Aug
+ORD-2023-1640,2023-09-21,2023-09-22,Consumer,Egypt,Mobile Devices,Smartphone Ultra,2,950,0.0,1900.0,1200,700.0,36.84210526315789,1,Sep
+ORD-2023-1641,2023-09-07,2023-09-09,Corporate,Saudi Arabia,Computing,Laptop Pro 15,2,1200,0.1,2160.0,1560,600.0,27.77777777777778,2,Sep
+ORD-2023-1642,2023-02-10,2023-02-13,Consumer,Uae,Computing,Laptop Pro 15,2,1200,0.3,1680.0,1560,120.0,7.142857142857142,3,Feb
+ORD-2023-1643,2023-04-10,2023-04-17,Corporate,United States,Mobile Devices,Smartphone Ultra,3,950,0.0,2850.0,1800,1050.0,36.84210526315789,7,Apr
+ORD-2023-1644,2023-03-19,2023-03-20,Corporate,Egypt,Computing,"Tablet Air 10""",1,520,0.05,494.0,340,154.0,31.17408906882591,1,Mar
+ORD-2023-1645,2023-09-18,2023-09-21,Corporate,Saudi Arabia,Displays,"4K UHD Monitor 27""",1,380,0.0,380.0,260,120.0,31.57894736842105,3,Sep
+ORD-2023-1646,2023-05-08,2023-05-09,Consumer,Uae,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.0,220.0,95,125.0,56.81818181818182,1,May
+ORD-2023-1647,2023-09-11,2023-09-13,Corporate,Egypt,Computing,"Tablet Air 10""",1,520,0.0,520.0,340,180.0,34.61538461538461,2,Sep
+ORD-2023-1648,2023-06-07,2023-06-08,Consumer,United Kingdom,Audio & Accessories,Noise-Cancelling Headphones,1,220,0.0,220.0,95,125.0,56.81818181818182,1,Jun
+ORD-2023-1649,2023-10-30,2023-11-01,Consumer,Egypt,Displays,"4K UHD Monitor 27""",2,380,0.0,760.0,520,240.0,31.57894736842105,2,Oct
+ORD-2023-1650,2023-11-06,2023-11-07,Small Business,United Kingdom,Displays,"4K UHD Monitor 27""",4,380,0.0,1520.0,1040,480.0,31.57894736842105,1,Nov
